@@ -1,0 +1,631 @@
+"ID","Family","Binomial","Ndaphnia","Sex","Site","Collector","Climate","Date","X30m","X60m","X120m","X180m","X240m","nbut","Notes","weight","death.p","Daphnia","time","death"
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,1,60,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,2,120,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,3,120,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,4,120,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,5,120,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,6,120,1
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,7,240,0
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,8,240,0
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,9,240,0
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6,10,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,1,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,2,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,3,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,4,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,5,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,6,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,7,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,8,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,9,240,0
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0,10,240,0
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,1,120,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,2,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,3,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,4,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,5,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,6,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,7,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,8,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,9,180,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1,10,180,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,1,60,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,2,180,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,3,240,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,4,240,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,5,240,1
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,6,240,0
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,7,240,0
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,8,240,0
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,9,240,0
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5,10,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,1,60,1
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,2,120,1
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,3,180,1
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,4,240,1
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,5,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,6,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,7,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,8,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,9,240,0
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4,10,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,1,120,1
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,2,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,3,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,4,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,5,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,6,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,7,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,8,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,9,240,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1,10,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,1,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,2,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,3,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,4,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,5,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,6,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,7,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,8,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,9,240,0
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0,10,240,0
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,1,120,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,2,120,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,3,120,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,4,120,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,5,120,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,6,180,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,7,180,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,8,180,1
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,9,240,0
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8,10,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,1,120,1
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,2,180,1
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,3,240,1
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,4,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,5,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,6,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,7,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,8,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,9,240,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3,10,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,1,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,2,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,3,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,4,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,5,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,6,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,7,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,8,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,9,240,0
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0,10,240,0
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,1,60,1
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,2,60,1
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,3,120,1
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,4,180,1
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,5,180,1
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,6,240,0
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,7,240,0
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,8,240,0
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,9,240,0
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5,10,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,1,180,1
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,2,180,1
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,3,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,4,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,5,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,6,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,7,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,8,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,9,240,0
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2,10,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,1,180,1
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,2,180,1
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,3,180,1
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,4,240,1
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,5,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,6,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,7,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,8,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,9,240,0
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4,10,240,0
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,1,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,2,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,3,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,4,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,5,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,6,120,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,7,180,1
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,8,240,0
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,9,240,0
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7,10,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,1,180,1
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,2,180,1
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,3,240,1
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,4,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,5,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,6,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,7,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,8,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,9,240,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3,10,240,0
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,1,30,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,2,30,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,3,60,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,4,60,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,5,60,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,6,60,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,7,120,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,8,180,1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,9,240,0
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8,10,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,1,60,1
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,2,120,1
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,3,240,1
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,4,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,5,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,6,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,7,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,8,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,9,240,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3,10,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,1,240,1
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,2,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,3,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,4,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,5,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,6,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,7,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,8,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,9,240,0
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1,10,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,1,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,2,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,3,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,4,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,5,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,6,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,7,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,8,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,9,240,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0,10,240,0
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,1,30,1
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,2,120,1
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,3,120,1
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,4,180,1
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,5,180,1
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,6,240,0
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,7,240,0
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,8,240,0
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,9,240,0
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5,10,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,1,60,1
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,2,120,1
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,3,120,1
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,4,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,5,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,6,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,7,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,8,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,9,240,0
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3,10,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,1,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,2,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,3,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,4,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,5,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,6,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,7,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,8,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,9,240,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0,10,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,1,180,1
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,2,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,3,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,4,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,5,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,6,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,7,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,8,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,9,240,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1,10,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,1,120,1
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,2,120,1
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,3,180,1
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,4,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,5,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,6,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,7,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,8,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,9,240,0
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3,10,240,0
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,1,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,2,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,3,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,4,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,5,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,6,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,7,120,1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,8,240,0
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,9,240,0
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7,10,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,1,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,2,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,3,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,4,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,5,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,6,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,7,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,8,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,9,240,0
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0,10,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,1,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,2,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,3,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,4,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,5,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,6,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,7,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,8,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,9,240,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0,10,240,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,1,180,1
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,2,180,1
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,3,180,1
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,4,240,1
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,5,240,1
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,6,240,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,7,240,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,8,240,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,9,240,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5,10,240,0
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,1,60,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,2,60,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,3,60,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,4,120,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,5,180,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,6,180,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,7,240,1
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,8,240,0
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,9,240,0
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7,10,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,1,120,1
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,2,180,1
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,3,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,4,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,5,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,6,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,7,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,8,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,9,240,0
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2,10,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,1,180,1
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,2,240,1
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,3,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,4,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,5,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,6,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,7,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,8,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,9,240,0
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2,10,240,0
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,1,120,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,2,120,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,3,120,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,4,120,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,5,180,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,6,240,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,7,240,1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,8,240,0
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,9,240,0
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7,10,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,1,120,1
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,2,180,1
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,3,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,4,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,5,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,6,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,7,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,8,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,9,240,0
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2,10,240,0
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,1,60,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,2,60,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,3,60,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,4,120,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,5,120,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,6,120,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,7,120,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,8,180,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,9,180,1
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9,10,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,1,120,1
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,2,120,1
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,3,180,1
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,4,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,5,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,6,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,7,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,8,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,9,240,0
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3,10,240,0
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,1,120,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,2,120,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,3,120,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,4,120,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,5,120,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,6,180,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,7,180,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,8,240,1
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,9,240,0
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8,10,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,1,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,2,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,3,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,4,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,5,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,6,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,7,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,8,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,9,240,0
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0,10,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,1,180,1
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,2,240,1
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,3,240,1
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,4,240,1
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,5,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,6,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,7,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,8,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,9,240,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4,10,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,1,120,1
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,2,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,3,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,4,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,5,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,6,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,7,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,8,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,9,240,0
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1,10,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,1,60,1
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,2,60,1
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,3,120,1
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,4,120,1
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,5,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,6,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,7,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,8,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,9,240,0
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4,10,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,1,180,1
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,2,240,1
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,3,240,1
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,4,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,5,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,6,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,7,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,8,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,9,240,0
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3,10,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,1,180,1
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,2,240,1
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,3,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,4,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,5,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,6,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,7,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,8,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,9,240,0
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2,10,240,0
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,1,120,1
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,2,120,1
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,3,120,1
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,4,180,1
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,5,180,1
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,6,240,0
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,7,240,0
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,8,240,0
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,9,240,0
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5,10,240,0
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,1,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,2,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,3,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,4,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,5,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,6,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,7,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,8,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,9,120,1
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1,10,120,1
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,1,120,1
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,2,240,1
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,3,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,4,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,5,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,6,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,7,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,8,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,9,240,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2,10,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,1,180,1
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,2,180,1
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,3,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,4,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,5,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,6,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,7,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,8,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,9,240,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2,10,240,0
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,1,120,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,2,120,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,3,120,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,4,120,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,5,120,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,6,180,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,7,240,1
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,8,240,0
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,9,240,0
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7,10,240,0
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,1,120,1
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,2,120,1
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,3,120,1
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,4,120,1
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,5,120,1
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,6,240,0
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,7,240,0
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,8,240,0
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,9,240,0
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5,10,240,0
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,1,120,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,2,180,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,3,180,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,4,240,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,5,240,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,6,240,1
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,7,240,0
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,8,240,0
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,9,240,0
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6,10,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,1,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,2,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,3,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,4,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,5,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,6,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,7,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,8,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,9,240,0
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0,10,240,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,1,120,1
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,2,120,1
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,3,180,1
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,4,180,1
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,5,240,1
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,6,240,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,7,240,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,8,240,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,9,240,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5,10,240,0
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,1,120,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,2,120,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,3,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,4,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,5,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,6,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,7,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,8,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,9,180,1
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9,10,240,0
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,1,30,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,2,30,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,3,60,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,4,60,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,5,180,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,6,240,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,7,240,1
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,8,240,0
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,9,240,0
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7,10,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,1,120,1
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,2,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,3,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,4,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,5,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,6,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,7,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,8,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,9,240,0
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1,10,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,1,180,1
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,2,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,3,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,4,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,5,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,6,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,7,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,8,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,9,240,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1,10,240,0
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,1,120,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,2,180,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,3,180,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,4,180,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,5,180,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,6,240,1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,7,240,0
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,8,240,0
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,9,240,0
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6,10,240,0
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,1,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,2,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,3,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,4,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,5,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,6,120,1
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,7,240,0
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,8,240,0
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,9,240,0
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6,10,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,1,180,1
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,2,180,1
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,3,180,1
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,4,240,1
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,5,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,6,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,7,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,8,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,9,240,0
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4,10,240,0
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,1,30,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,2,60,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,3,60,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,4,120,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,5,120,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,6,120,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,7,120,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,8,120,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,9,240,1
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9,10,240,0
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,1,120,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,2,180,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,3,240,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,4,240,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,5,240,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,6,240,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,7,240,0
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,8,240,0
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,9,240,0
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6,10,240,0
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,1,120,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,2,120,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,3,120,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,4,180,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,5,180,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,6,180,1
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,7,240,0
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,8,240,0
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,9,240,0
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6,10,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,1,60,1
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,2,180,1
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,3,240,1
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,4,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,5,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,6,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,7,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,8,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,9,240,0
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3,10,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,1,120,1
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,2,120,1
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,3,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,4,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,5,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,6,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,7,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,8,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,9,240,0
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2,10,240,0

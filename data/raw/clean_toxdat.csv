@@ -1,0 +1,548 @@
+"ID","Family","Binomial","Ndaphnia","Sex","Site","Collector","Climate","Date","30m","60m","120m","180m","240m","nbut","Notes","weight","death.p"
+"1015","Lycaenidae","Lampides boeticus",10,"Female","BBG","SS","Subtropical","20/09/2022",0,0,4,7,7,1,NA,0.011,0.7
+"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6
+"1024","Lycaenidae","Lampides boeticus",10,"Male","BBG","MFE","Subtropical","20/09/2022",0,5,7,7,8,1,NA,0.0113,0.8
+"1025","Pieridae","Eurema smilax",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,2,5,1,NA,0.005,0.5
+"1032","Nymphalidae","Junonia villida",10,"Female","BBG","CI","Subtropical","20/09/2022",1,1,1,2,4,1,"Brought from store and tested next day",0.035,0.4
+"1036","Lycaenidae","Lampides boeticus",10,"Male","BBG","CI","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.009,0
+"1038","Hesperiidae","Ocybadistes flavovittatus",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,1,7,7,1,NA,0.01,0.7
+"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0
+"1041","Lycaenidae","Lampides boeticus",10,"Male","BBG","CI","Subtropical","20/09/2022",3,6,7,7,7,1,"only small ones died",0.013,0.7
+"1049","Pieridae","Eurema hecabe",10,"Male","BBG","MFE","Subtropical","20/09/2022",3,5,8,10,10,1,"Brought from store and tested next day",0.013,1
+"1056","Pieridae","Eurema smilax",10,"Female","BBG","SS","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.009,0
+"1067","Pieridae","Catopsilia pomona",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,2,2,1,NA,0.165,0.2
+"107","Lycaenidae","Jamides aleuas",10,"Female","JCU","LH","Tropical","16/07/2022",1,2,6,7,7,1,"All & only small dead",0.009,0.7
+"1070","Nymphalidae","Melanitis leda",10,"Male","BBG","MFE","Subtropical","20/09/2022",4,8,10,10,10,1,"Brought from store and tested next day",0.065,1
+"1076","Pieridae","Catopsilia pomona",10,"Male","BBG","SS","Subtropical","20/09/2022",0,3,6,7,7,1,NA,0.1234,0.7
+"1082","Pieridae","Catopsilia pomona",10,"Male","BBG","SS","Subtropical","20/09/2022",0,0,0,1,1,1,NA,0.117,0.1
+"1099","Lycaenidae","Lampides boeticus",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,4,6,6,1,NA,0.008,0.6
+"11","Nymphalidae","Danaus affinis",10,"Male","BG","MFE","Tropical","16/07/2022",0,0,10,10,10,1,NA,0.052,1
+"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1
+"1118","Lycaenidae","Lampides boeticus",10,"Male","LSP","SS","Subtropical","23/09/2022",3,6,7,10,10,1,NA,0.01,1
+"1119","Lycaenidae","Lampides boeticus",11,"Female","LSP","SS","Subtropical","23/09/2022",0,0,6,8,8,1,NA,0.012,0.727272727272727
+"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5
+"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4
+"1160","Pieridae","Belenois java",10,"Female","LSP","CI","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.115,0
+"1163","Hesperiidae","Ocybadistes flavovittatus",9,"Female","LSP","CI","Subtropical","23/09/2022",0,0,1,3,3,1,NA,0.009,0.333333333333333
+"1167","Nymphalidae","Danaus plexippus",10,"Female","LSP","MFE","Subtropical","23/09/2022",6,7,8,9,10,1,"Brought from store and tested next day",0.25,1
+"1170","Pieridae","Delias argenthona",10,"Male","LSP","MFE","Subtropical","23/09/2022",0,1,1,1,3,1,NA,0.058,0.3
+"1173","Pieridae","Belenois java",10,"Male","LSP","SS","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.0643,0
+"1174","Pieridae","Delias argenthona",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.086,0
+"1179","Nymphalidae","Junonia villida",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.027,0
+"1183","Nymphalidae","Danaus plexippus",10,"Female","LSP","CI","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.126,0
+"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1
+"12","Nymphalidae","Danaus affinis",10,"Female","BG","MFE","Tropical","16/07/2022",1,2,5,7,8,1,"Brought from store and tested next day",0.058,0.8
+"1205","Pieridae","Eurema smilax",10,"Female","LSP","HS","Subtropical","23/09/2022",0,1,4,5,5,1,NA,0.007,0.5
+"1207","Pieridae","Eurema smilax",10,"Female","LSP","HS","Subtropical","23/09/2022",0,0,0,1,4,1,NA,0.0076,0.4
+"1208","Nymphalidae","Danaus plexippus",10,"Female","LSP","HS","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.126,0
+"1211","Nymphalidae","Danaus plexippus",10,"Male","LSP","HS","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.124,0
+"1226","Pieridae","Eurema smilax",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,1,1,1,1,1,NA,0.007,0.1
+"1233","Lycaenidae","Lampides boeticus",10,"Male","LSP","MEH","Subtropical","23/09/2022",0,0,0,1,1,1,NA,0.01,0.1
+"1240","Lycaenidae","Lampides boeticus",10,"Female","LSP","MEH","Subtropical","23/09/2022",2,2,3,6,7,1,NA,0.009,0.7
+"1241","Nymphalidae","Melanitis leda",10,"Female","LSP","HS","Subtropical","23/09/2022",2,2,2,2,2,1,NA,0.064,0.2
+"1246","Nymphalidae","Danaus plexippus",10,"Female","LSP","MEH","Subtropical","23/09/2022",0,0,2,4,4,1,NA,0.2188,0.4
+"1250","Nymphalidae","Danaus plexippus",10,"Male","LSP","MFE","Subtropical","23/09/2022",0,0,0,0,0,1,NA,0.1523,0
+"1263","Hesperiidae","Sabera fuliginosa",10,"Male","CC","SS","Subtropical","24/09/2022",0,1,1,2,2,1,NA,0.032,0.2
+"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0
+"1281","Pieridae","Belenois java",10,"Male","CC","HS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.062,0
+"1290","Pieridae","Eurema smilax",10,"Female","CC","HS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.0082,0
+"1299","Lycaenidae","Candalides absimilis",10,"Female","CC","HS","Subtropical","24/09/2022",2,2,2,2,2,1,NA,0.006,0.2
+"1302","Pieridae","Delias nigrina",10,"Male","CC","HS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.049,0
+"1315","Pieridae","Belenois java",10,"Male","CC","HS","Subtropical","24/09/2022",0,2,7,8,8,1,"All & only small dead",0.076,0.8
+"1321","Hesperiidae","Sabera fuliginosa",10,"Male","CC","MEH","Subtropical","24/09/2022",0,0,0,1,2,1,NA,0.031,0.2
+"1331","Nymphalidae","Hypocysta metirius",10,"Female","CC","MEH","Subtropical","24/09/2022",0,1,3,5,5,1,NA,0.007,0.5
+"1350","Pieridae","Belenois java",10,"Female","CC","HS","Subtropical","24/09/2022",0,0,0,2,2,1,NA,0.107,0.2
+"1358","Nymphalidae","Hypolimnas bolina",10,"Male","CC","CI","Subtropical","24/09/2022",1,1,2,2,2,1,NA,0.12,0.2
+"1368","Nymphalidae","Euploea corinna",10,"Female","CC","MEH","Subtropical","24/09/2022",0,0,6,6,6,1,NA,0.1986,0.6
+"137","Nymphalidae","Mycalesis perseus",10,"Female","JCU","LH","Tropical","16/07/2022",1,1,2,2,2,1,NA,0.02,0.2
+"1385","Nymphalidae","Melanitis leda",10,"Female","CC","SS","Subtropical","24/09/2022",0,0,0,0,0,1,"Brought from store and tested next day",0.057,0
+"1391","Papilionidae","Papilio aegeus",10,"Male","CC","HS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.1258,0
+"14","Lycaenidae","Nacaduba cyanea",10,"Female","BG","MFE","Tropical","16/07/2022",0,0,1,4,4,1,NA,0.012,0.4
+"1404","Pieridae","Eurema smilax",10,"Male","CC","CI","Subtropical","24/09/2022",0,0,0,4,4,1,NA,0.006,0.4
+"1408","Hesperiidae","Sabera fuliginosa",10,"Male","CC","SS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.033,0
+"1417","Pieridae","Eurema smilax",10,"Male","CC","SS","Subtropical","24/09/2022",0,0,1,3,3,1,NA,0.009,0.3
+"1439","Pieridae","Eurema smilax",10,"Male","CC","MFE","Subtropical","24/09/2022",0,0,0,4,4,1,"scales in liquid",0.004,0.4
+"1441","Nymphalidae","Hypocysta metirius",10,"Male","CC","MFE","Subtropical","24/09/2022",0,0,1,2,2,1,NA,0.007,0.2
+"1443","Nymphalidae","Hypocysta metirius",10,"Male","CC","MFE","Subtropical","24/09/2022",0,0,0,2,2,1,NA,0.011,0.2
+"1469","Nymphalidae","Hypocysta metirius",10,"Male","CC","SS","Subtropical","24/09/2022",0,0,0,1,4,1,NA,0.011,0.4
+"1482","Pieridae","Delias nigrina",10,"Male","CC","HS","Subtropical","24/09/2022",0,0,0,0,0,1,NA,0.056,0
+"1498","Nymphalidae","Hypocysta metirius",10,"Male","CC","HS","Subtropical","24/09/2022",0,0,3,3,4,1,NA,0.0119,0.4
+"1518","Hesperiidae","Telicota ancilla",10,"Male","MQ","SS","Temperate","15/11/2022",0,0,0,0,0,1,"Brought from store and tested next day",0.038,0
+"1519","Hesperiidae","Telicota ancilla",10,"Male","MQ","SS","Temperate","15/11/2022",0,0,0,0,0,1,NA,0.028,0
+"1527","Lycaenidae","Candalides absimilis",10,"Female","MQ","HS","Temperate","15/11/2022",2,4,6,7,7,1,"tiny ones died (not all but only)",0.006,0.7
+"1529","Lycaenidae","Candalides absimilis",10,"Female","MQ","HS","Temperate","15/11/2022",1,5,5,9,9,1,NA,0.019,0.9
+"1531","Hesperiidae","Toxidia peron",10,"Female","MQ","HS","Temperate","15/11/2022",0,0,1,1,2,1,NA,0.029,0.2
+"1543","Pieridae","Pieris rapae",10,"Male","MQ","TW","Temperate","15/11/2022",0,0,0,0,0,1,NA,0.032,0
+"1545","Nymphalidae","Heteronympha merope",10,"Male","MQ","TW","Temperate","15/11/2022",0,0,0,0,5,1,NA,0.0388,0.5
+"1561","Hesperiidae","Trapezites symmomus",10,"Male","MQ","MFE","Temperate","15/11/2022",0,0,0,0,0,1,NA,0.1167,0
+"1564","Nymphalidae","Hypocysta metirius",10,"Male","WPP","SS","Temperate","16/11/2022",0,0,2,2,4,1,NA,0.005,0.4
+"1568","Hesperiidae","Ocybadistes walkeri",10,"Male","WPP","SS","Temperate","16/11/2022",0,1,4,4,4,1,NA,0.012,0.4
+"1575","Hesperiidae","Trapezites symmomus",10,"Female","WPP","SS","Temperate","16/11/2022",5,5,9,9,10,1,"Brought from store and tested next day",0.148,1
+"1576","Hesperiidae","Trapezites symmomus",10,"Female","WPP","CW","Temperate","16/11/2022",0,0,0,0,0,1,NA,0.2435,0
+"1577","Hesperiidae","Ocybadistes walkeri",10,"Female","WPP","CW","Temperate","16/11/2022",0,0,0,0,0,1,NA,0.021,0
+"1581","Hesperiidae","Ocybadistes walkeri",10,"Female","WPP","MEH","Temperate","16/11/2022",1,1,1,1,1,1,"Brought from store and tested next day",0.009,0.1
+"1584","Hesperiidae","Ocybadistes walkeri",10,"Male","WPP","MEH","Temperate","16/11/2022",0,0,1,2,5,1,NA,0.009,0.5
+"1586","Hesperiidae","Trapezites symmomus",10,"Female","WPP","MFE","Temperate","16/11/2022",0,0,0,0,0,1,NA,0.1764,0
+"1594","Lycaenidae","Candalides absimilis",10,"Female","WPP","MFE","Temperate","16/11/2022",0,2,8,8,8,1,NA,0.012,0.8
+"160","Nymphalidae","Junonia hedonia",10,"Female","JCU","LH","Tropical","16/07/2022",0,1,2,4,5,1,"All & only small dead",0.029,0.5
+"1602","Hesperiidae","Telicota ancilla",10,"Female","WPP","HS","Temperate","16/11/2022",0,0,1,2,2,1,NA,0.0328,0.2
+"1615","Nymphalidae","Heteronympha merope",10,"Male","KRG","HS","Temperate","17/11/2022",0,5,6,6,7,1,NA,0.0334,0.7
+"162","Nymphalidae","Junonia hedonia",10,"Male","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.065,0
+"1628","Nymphalidae","Tisiphone abeona",10,"Female","KRG","HS","Temperate","17/11/2022",0,0,0,0,0,1,NA,0.041,0
+"1638","Nymphalidae","Heteronympha merope",10,"Male","KRG","HS","Temperate","17/11/2022",0,0,0,1,1,1,NA,0.037,0.1
+"1641","Hesperiidae","Telicota ancilla",10,"Male","KRG","HS","Temperate","17/11/2022",0,0,0,3,3,1,NA,0.037,0.3
+"1648","Nymphalidae","Heteronympha mirifica",10,"Male","KRG","HS","Temperate","17/11/2022",0,0,0,0,1,1,NA,0.021,0.1
+"1650","Nymphalidae","Heteronympha mirifica",10,"Male","KRG","HS","Temperate","17/11/2022",0,0,0,1,1,1,NA,0.022,0.1
+"1651","Hesperiidae","Telicota ancilla",10,"Female","KRG","HS","Temperate","17/11/2022",0,0,0,2,2,1,NA,0.03,0.2
+"1656","Nymphalidae","Heteronympha mirifica",10,"Male","KRG","SS","Temperate","17/11/2022",0,0,1,2,4,1,"eggs layed within 30 min",0.021,0.4
+"1662","Nymphalidae","Ypthima arctous",10,"Male","KRG","SS","Temperate","17/11/2022",0,0,0,0,2,1,NA,0.0082,0.2
+"1679","Hesperiidae","Telicota ancilla",10,"Female","KRG","SS","Temperate","17/11/2022",0,0,0,0,0,1,NA,0.051,0
+"1680","Nymphalidae","Hypocysta metirius",10,"Male","KRG","SS","Temperate","17/11/2022",0,0,1,1,2,1,"scales in liquid",0.005,0.2
+"1681","Nymphalidae","Heteronympha merope",10,"Male","KRG","SS","Temperate","17/11/2022",0,0,0,0,1,1,NA,0.0411,0.1
+"1683","Nymphalidae","Hypocysta metirius",10,"Male","KRG","SS","Temperate","17/11/2022",0,2,4,4,5,1,NA,0.006,0.5
+"1687","Hesperiidae","Ocybadistes walkeri",10,"Male","KRG","SS","Temperate","17/11/2022",1,1,1,2,3,1,NA,0.011,0.3
+"1695","Nymphalidae","Tisiphone abeona",10,"Male","KRG","SS","Temperate","17/11/2022",0,0,2,3,3,1,"written as 1645, fixed using envelope!",0.022,0.3
+"1697","Nymphalidae","Tisiphone abeona",10,"Female","KRG","MEH","Temperate","17/11/2022",0,0,0,0,0,1,NA,0.0208,0
+"1726","Nymphalidae","Tisiphone abeona",10,"Male","KRG","NV","Temperate","17/11/2022",0,0,0,0,1,1,NA,0.0254,0.1
+"1728","Nymphalidae","Tisiphone abeona",10,"Male","KRG","NV","Temperate","17/11/2022",0,0,0,1,1,1,NA,0.0458,0.1
+"1730","Nymphalidae","Heteronympha merope",10,"Male","KRG","NV","Temperate","17/11/2022",0,1,3,7,9,1,"Only small ones died, but big one almost dead too (just twiching)",0.035,0.9
+"1758","Nymphalidae","Hypocysta metirius",10,"Male","KRG","MFE","Temperate","17/11/2022",0,0,1,3,7,1,NA,0.0042,0.7
+"1766","Nymphalidae","Tisiphone abeona",10,"Male","KRG","MFE","Temperate","17/11/2022",0,0,0,0,0,1,"Brought from store and tested next day",0.049,0
+"1783","Nymphalidae","Vanessa kershawi",10,"Female","WLP","HS","Temperate","18/11/2022",0,0,3,3,3,1,"also clumping",0.054,0.3
+"1791","Nymphalidae","Vanessa kershawi",10,"Female","WLP","SS","Temperate","18/11/2022",0,0,2,3,3,1,NA,0.034,0.3
+"1798","Nymphalidae","Junonia villida",10,"Female","WLP","SS","Temperate","18/11/2022",0,0,0,0,0,1,NA,0.0423,0
+"18","Lycaenidae","Hypolycaena phorbas",10,"Female","BG","MFE","Tropical","16/07/2022",0,0,1,2,5,1,NA,0.008,0.5
+"1820","Hesperiidae","Ocybadistes walkeri",10,"Male","WLP","LH","Temperate","19/11/2022",0,0,0,1,1,1,NA,0.0113,0.1
+"1821","Nymphalidae","Junonia villida",10,"Male","WLP","LH","Temperate","19/11/2022",0,0,0,0,0,1,NA,0.043,0
+"1823","Hesperiidae","Ocybadistes flavovittatus",11,"Female","WLP","LH","Temperate","19/11/2022",0,0,3,5,9,1,NA,0.004,0.818181818181818
+"1824","Nymphalidae","Junonia villida",10,"Female","WLP","LH","Temperate","19/11/2022",0,0,0,0,1,1,NA,0.026,0.1
+"1827","Hesperiidae","Ocybadistes walkeri",10,"Male","WLP","MFE","Temperate","19/11/2022",0,0,1,3,3,1,"Brought from store and tested next day",0.009,0.3
+"1835","Nymphalidae","Junonia villida",10,"Male","WLP","SS","Temperate","19/11/2022",0,0,0,0,0,1,NA,0.045,0
+"1851","Nymphalidae","Mycalesis terminus",10,"Female","BG","MFE","Tropical","18/07/2022",0,0,0,0,0,1,NA,NA,0
+"1857","Hesperiidae","Notocrypta waigensis",10,"Male","BG","MEH","Tropical","30/06/2023",0,0,0,0,0,1,NA,0.021,0
+"1868","Hesperiidae","Cephrenes augiades",10,"Female","BG","JM","Tropical","30/06/2023",0,0,0,0,0,1,"baby in not accounted for",0.029,0
+"1873","Nymphalidae","Danaus affinis",10,"Male","BG","JM","Tropical","30/06/2023",0,0,0,1,2,1,NA,0.04,0.2
+"1881","Pieridae","Delias mysis",10,"Male","BG","JM","Tropical","30/06/2023",0,0,0,0,0,1,NA,0.064,0
+"1884","Lycaenidae","Nacaduba cyanea",10,"Male","BG","CI","Tropical","30/06/2023",0,0,1,1,1,1,NA,0.008,0.1
+"1912","Hesperiidae","Cephrenes augiades",10,"Female","BG","MFE","Tropical","30/06/2023",0,0,0,0,1,1,NA,0.041,0.1
+"1916","Hesperiidae","Sabera caesina",10,"Male","BG","MFE","Tropical","30/06/2023",0,0,0,3,3,1,NA,0.025,0.3
+"1919","Hesperiidae","Sabera caesina",10,"Male","BG","MFE","Tropical","30/06/2023",0,0,1,2,2,1,NA,0.024,0.2
+"1920","Hesperiidae","Sabera caesina",10,"Male","BG","MFE","Tropical","30/06/2023",0,0,0,0,0,1,NA,0.019,0
+"1985","Pieridae","Eurema laeta",10,"Female","JCU","HS","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.012,0
+"20","Nymphalidae","Cethosia cydippe",10,"Female","BG","SP","Tropical","16/07/2022",0,0,0,2,3,1,"and 1 baby",0.087,0.3
+"2000","Nymphalidae","Mycalesis terminus",10,"Male","JCU","HS","Tropical","01/07/2023",0,0,0,0,1,1,NA,0.0166,0.1
+"2010","Hesperiidae","Telicota mesoptis",11,"Male","JCU","HS","Tropical","01/07/2023",0,1,1,1,3,1,"11 daphnia in!",0.011,0.272727272727273
+"2011","Hesperiidae","Telicota mesoptis",10,"Male","JCU","HS","Tropical","01/07/2023",0,0,2,3,4,1,NA,0.034,0.4
+"2013","Hesperiidae","Telicota mesoptis",10,"Female","JCU","HS","Tropical","01/07/2023",0,0,2,2,3,1,NA,0.023,0.3
+"2021","Hesperiidae","Pelopidas agna",10,"Male","JCU","MEH","Tropical","01/07/2023",0,0,1,1,5,1,NA,0.0282,0.5
+"2022","Hesperiidae","Arrhenes dschilus",10,"Female","JCU","MEH","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.018,0
+"2023","Hesperiidae","Arrhenes dschilus",10,"Female","JCU","MEH","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.027,0
+"2055","Nymphalidae","Melanitis leda",10,"Female","JCU","JM","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.0707,0
+"2056","Nymphalidae","Euploea tulliolus",10,"Female","JCU","JM","Tropical","01/07/2023",0,1,2,2,2,1,NA,0.064,0.2
+"2062","Pieridae","Eurema laeta",10,"Male","JCU","JM","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.008,0
+"2065","Pieridae","Eurema hecabe",10,"Male","JCU","JM","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.0118,0
+"2075","Hesperiidae","Pelopidas agna",10,"Male","JCU","JM","Tropical","01/07/2023",1,3,3,4,4,1,NA,0.034,0.4
+"2087","Hesperiidae","Telicota mesoptis",10,"Male","JCU","JM","Tropical","01/07/2023",7,6,9,10,10,1,"Brought from store and tested next day",0.02,1
+"2095","Nymphalidae","Ypthima arctous",10,"Female","JCU","MFE","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.0128,0
+"21","Nymphalidae","Cethosia cydippe",10,"Male","BG","MFE","Tropical","16/07/2022",0,0,3,6,6,1,NA,0.036,0.6
+"2115","Hesperiidae","Pelopidas agna",10,"Male","JCU","MFE","Tropical","01/07/2023",0,0,0,0,1,1,NA,0.022,0.1
+"2116","Hesperiidae","Pelopidas agna",10,"Male","JCU","MFE","Tropical","01/07/2023",0,1,2,2,2,1,NA,0.0366,0.2
+"2117","Hesperiidae","Pelopidas agna",10,"Male","JCU","MFE","Tropical","01/07/2023",1,7,7,9,9,1,NA,0.0392,0.9
+"2123","Hesperiidae","Suniana sunias",10,"Male","JCU","MFE","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.0072,0
+"2129","Hesperiidae","Telicota mesoptis",10,"Male","JCU","MFE","Tropical","01/07/2023",2,4,9,9,9,1,"Brought from store and tested next day",0.023,0.9
+"2130","Hesperiidae","Telicota mesoptis",10,"Female","JCU","MFE","Tropical","01/07/2023",0,0,0,0,0,1,NA,0.0413,0
+"2141","Hesperiidae","Telicota mesoptis",10,"Male","JCU","MFE","Tropical","01/07/2023",4,4,8,8,9,1,NA,0.0251,0.9
+"2142","Hesperiidae","Pelopidas agna",10,"Male","JCU","MEH","Tropical","02/07/2023",1,1,3,3,3,1,NA,0.039,0.3
+"2144","Hesperiidae","Suniana sunias",10,"Female","JCU","MEH","Tropical","02/07/2023",0,0,0,1,1,1,NA,0.008,0.1
+"216","Hesperiidae","Telicota mesoptis",10,"Female","JCU","SS","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.3,0
+"2174","Hesperiidae","Arrhenes dschilus",10,"Male","JCU","JM","Tropical","02/07/2023",0,0,2,2,2,1,"Brought from store and tested next day",0.017,0.2
+"2179","Nymphalidae","Mycalesis perseus",10,"Female","JCU","JM","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.031,0
+"218","Hesperiidae","Telicota mesoptis",10,"Female","JCU","SS","Tropical","16/07/2022",0,0,0,0,1,1,NA,0.024,0.1
+"2183","Hesperiidae","Pelopidas agna",10,"Male","GP","JM","Tropical","02/07/2023",6,6,6,7,7,1,"Brought from store and tested next day",0.059,0.7
+"219","Lycaenidae","Jamides aleuas",10,"Male","JCU","SS","Tropical","16/07/2022",0,1,4,7,8,1,NA,0.006,0.8
+"2193","Nymphalidae","Mycalesis perseus",10,"Female","GP","JM","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.028,0
+"2194","Nymphalidae","Cupha prosope",10,"Female","GP","JM","Tropical","02/07/2023",0,0,0,2,4,1,NA,0.023,0.4
+"2204","Hesperiidae","Telicota mesoptis",10,"Male","JCU","HS","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.043,0
+"2207","Hesperiidae","Arrhenes dschilus",10,"Male","JCU","HS","Tropical","02/07/2023",0,0,1,1,1,1,NA,0.0157,0.1
+"2208","Hesperiidae","Pelopidas lyelli",10,"Male","JCU","HS","Tropical","02/07/2023",0,0,5,5,5,1,NA,0.0423,0.5
+"2209","Nymphalidae","Melanitis leda",10,"Female","JCU","HS","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.1706,0
+"2224","Nymphalidae","Pantoporia consimilis",10,"Female","GP","HS","Tropical","02/07/2023",0,0,0,0,1,1,NA,0.0143,0.1
+"2231","Nymphalidae","Cupha prosope",10,"Female","GP","HS","Tropical","02/07/2023",0,0,0,0,2,1,"many eggs layed :(",0.025,0.2
+"2254","Hesperiidae","Suniana sunias",10,"Female","GP","HS","Tropical","02/07/2023",0,1,1,1,1,1,NA,0.0095,0.1
+"228","Nymphalidae","Mycalesis terminus",10,"Male","JCU","SS","Tropical","16/07/2022",1,2,6,6,6,1,"tiny ones died (not all but only)",0.013,0.6
+"2280","Hesperiidae","Telicota ancilla",10,"Female","JCU","CI","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.0298,0
+"2289","Nymphalidae","Mycalesis terminus",10,"Female","JCU","CI","Tropical","02/07/2023",0,0,0,0,1,1,NA,0.0233,0.1
+"229","Nymphalidae","Pantoporia consimilis",10,"Female","JCU","SS","Tropical","16/07/2022",0,1,1,1,2,1,NA,0.008,0.2
+"2298","Nymphalidae","Cupha prosope",10,"Male","GP","CI","Tropical","02/07/2023",0,0,7,9,9,1,NA,0.022,0.9
+"23","Lycaenidae","Nacaduba cyanea",10,"Male","BG","MFE","Tropical","16/07/2022",0,0,2,2,2,1,NA,0.007,0.2
+"2309","Lycaenidae","Nacaduba cyanea",10,"Male","GP","CI","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.007,0
+"2319","Nymphalidae","Ypthima arctous",10,"Female","MR","KL","Tropical","02/07/2023",0,3,4,5,7,1,NA,0.02,0.7
+"2333","Nymphalidae","Mycalesis perseus",10,"Male","MR","KL","Tropical","02/07/2023",0,0,0,2,2,1,NA,0.017,0.2
+"234","Lycaenidae","Psychonotis caelius",10,"Female","JCU","SS","Tropical","17/07/2022",0,1,2,2,2,1,NA,0.005,0.2
+"2343","Nymphalidae","Mycalesis sirius",10,"Female","MR","KL","Tropical","02/07/2023",0,0,0,0,1,1,NA,0.01,0.1
+"2347","Nymphalidae","Mycalesis perseus",10,"Female","MR","KL","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.031,0
+"2348","Nymphalidae","Mycalesis sirius",10,"Female","MR","KL","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.016,0
+"237","Lycaenidae","Psychonotis caelius",10,"Female","JCU","SS","Tropical","17/07/2022",0,0,1,1,1,1,NA,0.004,0.1
+"2374","Hesperiidae","Pelopidas agna",10,"Male","MR","KL","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.0369,0
+"2393","Nymphalidae","Junonia hedonia",10,"Male","MR","LO","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.0496,0
+"2394","Nymphalidae","Junonia hedonia",10,"Male","MR","LO","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.0394,0
+"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8
+"2451","Nymphalidae","Mycalesis perseus",10,"Male","MR","LO","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.011,0
+"2452","Nymphalidae","Mycalesis sirius",10,"Male","MR","LO","Tropical","02/07/2023",0,0,0,2,4,1,NA,0.0083,0.4
+"2459","Nymphalidae","Ypthima arctous",10,"Female","MR","JD","Tropical","02/07/2023",0,0,0,2,3,1,NA,0.02,0.3
+"2477","Pieridae","Eurema hecabe",10,"Female","MR","JD","Tropical","02/07/2023",0,0,1,1,2,1,NA,0.017,0.2
+"2481","Hesperiidae","Telicota ancilla",10,"Male","MR","JD","Tropical","02/07/2023",1,1,1,3,3,1,"Brought from store and tested next day",0.03,0.3
+"2485","Hesperiidae","Sabera dobboe",10,"Male","MR","JD","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.025,0
+"2489","Hesperiidae","Pelopidas agna",10,"Female","MR","JD","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.043,0
+"249","Lycaenidae","Jamides aleuas",11,"Female","JCU","SS","Tropical","17/07/2022",0,0,3,3,4,1,"11 daphnia in!",0.007,0.363636363636364
+"2517","Nymphalidae","Mycalesis sirius",10,"Female","MR","JD","Tropical","02/07/2023",0,0,0,0,1,1,NA,0.0111,0.1
+"2523","Nymphalidae","Mycalesis perseus",10,"Male","MR","JD","Tropical","02/07/2023",0,0,0,1,3,1,NA,0.0144,0.3
+"2531","Hesperiidae","Pelopidas lyelli",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.057,0
+"2532","Hesperiidae","Pelopidas lyelli",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,"baby in not accounted for",0.0481,0
+"2534","Hesperiidae","Pelopidas lyelli",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,2,5,5,1,NA,0.031,0.5
+"2539","Nymphalidae","Melanitis leda",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.083,0
+"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3
+"2576","Hesperiidae","Sabera dobboe",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,1,1,NA,0.012,0.1
+"2579","Hesperiidae","Telicota mesoptis",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.027,0
+"2580","Hesperiidae","Suniana sunias",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,3,1,NA,0.009,0.3
+"2581","Hesperiidae","Sabera dobboe",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.0119,0
+"2591","Hesperiidae","Arrhenes dschilus",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.019,0
+"2593","Hesperiidae","Telicota ancilla",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.03,0
+"2598","Nymphalidae","Mycalesis terminus",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,1,1,1,NA,0.014,0.1
+"261","Nymphalidae","Cupha prosope",10,"Female","JCU","SS","Tropical","17/07/2022",0,0,3,6,6,1,NA,0.03,0.6
+"2615","Nymphalidae","Mycalesis perseus",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,1,1,3,1,NA,0.028,0.3
+"263","Nymphalidae","Pantoporia consimilis",10,"Female","JCU","SS","Tropical","17/07/2022",3,4,10,10,10,1,"written as 265, fixed using envelope!",0.0121,1
+"2646","Nymphalidae","Mycalesis perseus",10,"Female","MR","MFE","Tropical","02/07/2023",0,0,3,3,4,1,NA,0.013,0.4
+"2647","Nymphalidae","Mycalesis sirius",9,"Female","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,"1 killed one in the lid the first 30 min so there were only 9",0.011,0
+"2666","Nymphalidae","Mycalesis terminus",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,0,0,0,1,NA,0.013,0
+"2678","Pieridae","Delias mysis",10,"Male","GP","LO","Tropical","05/07/2023",1,1,1,1,1,1,NA,0.0307,0.1
+"2680","Nymphalidae","Hypolimnas bolina",10,"Male","GP","LO","Tropical","05/07/2023",0,0,0,0,0,1,NA,0.22115,0
+"2699","Hesperiidae","Suniana sunias",10,"Male","GP","KL","Tropical","05/07/2023",0,0,0,0,0,1,NA,0.0074,0
+"270","Pieridae","Catopsilia pomona",10,"Female","JCU","SS","Tropical","17/07/2022",0,0,1,1,1,1,NA,0.143,0.1
+"2708","Hesperiidae","Cephrenes augiades",10,"Female","GP","LO","Tropical","05/07/2023",0,0,0,0,0,1,NA,0.043,0
+"271","Hesperiidae","Sabera caesina",10,"Female","JCU","SS","Tropical","17/07/2022",0,0,0,0,1,1,"baby in not accounted for",0.025,0.1
+"2737","Papilionidae","Cressida cressida",10,"Male","BBG","MEH","Subtropical","31/10/2023",0,0,1,5,5,1,NA,0.12,0.5
+"2740","Lycaenidae","Nacaduba berenice",10,"Male","BBG","MEH","Subtropical","31/10/2023",0,0,4,6,6,1,"scales in liquid",0.0055,0.6
+"2743","Lycaenidae","Theclinesthes onycha",10,"Female","BBG","MEH","Subtropical","31/10/2023",0,0,0,2,7,1,NA,0.0171,0.7
+"2747","Lycaenidae","Leptotes plinius",10,"Female","BBG","MEH","Subtropical","31/10/2023",7,7,9,10,10,1,"Brought from store and tested next day/written as 2447 and fixed using extraction spreadsheet",0.004,1
+"2750","Lycaenidae","Leptotes plinius",10,"Male","BBG","MEH","Subtropical","31/10/2023",0,3,4,5,5,1,NA,0.004,0.5
+"2755","Papilionidae","Papilio aegeus",10,"Female","BBG","DS","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.2752,0
+"2757","Pieridae","Catopsilia pomona",10,"Male","BBG","DS","Subtropical","31/10/2023",0,0,0,0,1,1,"was written as 2175 in the paper sheet, fixed looking at the tox_silutionspreadsheet.",0.1436,0.1
+"2761","Lycaenidae","Theclinesthes onycha",10,"Female","BBG","DS","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.01453,0
+"2773","Papilionidae","Papilio aegeus",10,"Male","BBG","HS","Subtropical","31/10/2023",0,0,0,2,2,1,NA,0.128,0.2
+"2774","Papilionidae","Papilio aegeus",10,"Male","BBG","HS","Subtropical","31/10/2023",0,0,1,2,2,1,NA,0.1751,0.2
+"2775","Papilionidae","Papilio aegeus",10,"Male","BBG","HS","Subtropical","31/10/2023",7,7,7,9,10,1,NA,0.1436,1
+"2776","Papilionidae","Cressida cressida",10,"Female","BBG","HS","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.138,0
+"2777","Papilionidae","Graphium choredon",11,"Male","BBG","HS","Subtropical","31/10/2023",0,0,1,1,4,1,NA,0.087,0.363636363636364
+"2778","Papilionidae","Graphium choredon",10,"Male","BBG","HS","Subtropical","31/10/2023",0,0,0,1,2,1,NA,0.106,0.2
+"2779","Pieridae","Catopsilia pomona",10,"Female","BBG","HS","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.2138,0
+"2783","Pieridae","Pieris rapae",10,"Male","BBG","HS","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.029,0
+"28","Nymphalidae","Danaus affinis",10,"Male","BG","HS","Tropical","16/07/2022",2,5,5,6,7,1,NA,0.0593,0.7
+"2800","Lycaenidae","Nacaduba berenice",10,"Male","BBG","HS","Subtropical","31/10/2023",0,2,2,4,4,1,"scales in liquid",0.004,0.4
+"2801","Lycaenidae","Leptotes plinius",10,"Female","BBG","HS","Subtropical","31/10/2023",0,2,6,8,8,1,"All & only small dead",0.006,0.8
+"2811","Lycaenidae","Leptotes plinius",10,"Female","BBG","HS","Subtropical","31/10/2023",0,0,3,3,3,1,NA,0.005,0.3
+"2829","Lycaenidae","Nacaduba berenice",10,"Female","BBG","ZW","Subtropical","31/10/2023",0,0,0,0,1,1,NA,0.0061,0.1
+"2831","Lycaenidae","Theclinesthes onycha",10,"Female","BBG","ZW","Subtropical","31/10/2023",0,0,3,3,3,1,"scales in liquid",0.01,0.3
+"2846","Pieridae","Cepora perimale",10,"Female","BBG","MFE","Subtropical","31/10/2023",1,1,2,2,5,1,"weird clumbs in liquid",0.021,0.5
+"2848","Pieridae","Catopsilia pomona",10,"Female","BBG","MFE","Subtropical","31/10/2023",0,0,0,0,0,1,NA,0.0968,0
+"2857","Lycaenidae","Theclinesthes onycha",10,"Female","BBG","MFE","Subtropical","31/10/2023",0,0,2,2,3,1,NA,0.012,0.3
+"2879","Nymphalidae","Euploea corinna",10,"Male","OC","HS","Subtropical","01/11/2023",0,0,2,2,2,1,NA,0.164,0.2
+"2881","Nymphalidae","Euploea corinna",10,"Male","OC","HS","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.2203,0
+"2890","Nymphalidae","Danaus plexippus",10,"Male","OC","HS","Subtropical","01/11/2023",2,2,2,6,8,1,"Brought from store and tested next day/ one spend a few minutes in lid before I saved, it was after the 1/2 hour check and I thought 9 were dead, so after shaking and seeing movement I assumed it was still on the same stage as before, but clearly just a lot were not moving at first!",0.27,0.8
+"2892","Pieridae","Cepora perimale",10,"Male","OC","HS","Subtropical","01/11/2023",0,0,0,1,3,1,NA,0.021,0.3
+"2893","Pieridae","Cepora perimale",10,"Female","OC","HS","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.022,0
+"2915","Pieridae","Belenois java",10,"Male","OC","DS","Subtropical","01/11/2023",0,0,2,2,3,1,NA,0.0646,0.3
+"2916","Pieridae","Cepora perimale",10,"Male","OC","DS","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.023,0
+"2919","Hesperiidae","Suniana sunias",10,"Male","OC","DS","Subtropical","01/11/2023",0,0,2,3,4,1,NA,0.011,0.4
+"2920","Nymphalidae","Euploea corinna",10,"Female","OC","DS","Subtropical","01/11/2023",0,1,4,6,6,1,NA,0.2388,0.6
+"2921","Nymphalidae","Euploea corinna",10,"Male","OC","DS","Subtropical","01/11/2023",0,2,3,4,4,1,NA,0.146,0.4
+"2923","Nymphalidae","Euploea corinna",10,"Male","OC","DS","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.214,0
+"2944","Papilionidae","Graphium choredon",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,"gave birth",0.095,0
+"295","Hesperiidae","Sabera caesina",10,"Female","JCU","VP","Tropical","17/07/2022",0,0,0,0,0,1,"one with an air bubble :( managed to bump it up!!! :)",0.023,0
+"2950","Hesperiidae","Suniana sunias",10,"Female","OC","MFE","Subtropical","01/11/2023",0,0,0,2,2,1,NA,0.0066,0.2
+"2953","Nymphalidae","Euploea corinna",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.1541,0
+"2956","Lycaenidae","Theclinesthes onycha",10,"Male","OC","MFE","Subtropical","01/11/2023",7,10,10,10,10,1,"Brought from store and tested next day",0.009,1
+"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0
+"2989","Nymphalidae","Danaus petilia",10,"Female","OC","ZW","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.055,0
+"2997","Nymphalidae","Danaus plexippus",10,"Male","OC","ZW","Subtropical","01/11/2023",0,0,1,2,3,1,NA,0.239,0.3
+"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5
+"30","Nymphalidae","Mycalesis terminus",10,"Female","BG","HS","Tropical","16/07/2022",0,0,0,2,3,1,"Brought from store and tested next day",0.009,0.3
+"3025","Nymphalidae","Danaus petilia",10,"Male","LSP","HS","Subtropical","2/11/2023",0,0,0,0,3,1,NA,0.055,0.3
+"3054","Nymphalidae","Danaus petilia",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,1,2,2,1,NA,0.123,0.2
+"3056","Papilionidae","Papilio demoleus",10,"Female","LSP","ZW","Subtropical","2/11/2023",0,0,0,1,1,1,NA,0.0927,0.1
+"3057","Papilionidae","Papilio demoleus",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,1,2,2,4,1,NA,0.1015,0.4
+"3058","Papilionidae","Papilio demoleus",10,"Female","LSP","ZW","Subtropical","2/11/2023",0,0,2,3,3,1,NA,0.173,0.3
+"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2
+"3078","Hesperiidae","Toxidia peron",10,"Female","LSP","MFE","Subtropical","2/11/2023",0,0,0,0,1,1,NA,0.02463,0.1
+"3083","Papilionidae","Papilio demoleus",10,"Female","LSP","MFE","Subtropical","2/11/2023",0,0,0,1,2,1,NA,0.1285,0.2
+"3109","Pieridae","Delias argenthona",10,"Male","LSP","DS","Subtropical","2/11/2023",0,0,0,3,3,1,NA,0.116,0.3
+"3111","Papilionidae","Papilio demoleus",10,"Female","LSP","DS","Subtropical","2/11/2023",0,3,3,3,4,1,"3h has 0 but probably misstyped",0.1112,0.4
+"3122","Nymphalidae","Melanitis leda",10,"Female","CC","DS","Subtropical","03/11/2023",0,0,0,0,0,1,NA,0.089,0
+"3124","Nymphalidae","Euploea corinna",10,"Male","CC","DS","Subtropical","03/11/2023",0,0,0,0,0,1,"Diogo did the last 2 checks and he found no dead ones original numbers: 0,2,5,0,0. However Upon inspection 5 minutes after we saw there were 4 dead, so I corrected the values to the likely scenario",0.2126,0
+"3134","Hesperiidae","Toxidia peron",10,"Male","CC","DS","Subtropical","03/11/2023",0,0,0,0,1,1,NA,0.0287,0.1
+"3139","Lycaenidae","Theclinesthes onycha",10,"Female","CC","DS","Subtropical","03/11/2023",0,0,4,7,7,1,NA,0.015,0.7
+"3140","Lycaenidae","Nacaduba berenice",10,"Female","CC","DS","Subtropical","03/11/2023",0,0,2,2,2,1,"scales in liquid",0.004,0.2
+"3141","Lycaenidae","Theclinesthes onycha",10,"Male","CC","DS","Subtropical","03/12/2023",6,8,10,10,10,1,"Brought from store and tested next day/written as 2141, used extraction sheet to fix",0.007,1
+"3142","Lycaenidae","Theclinesthes onycha",10,"Male","CC","DS","Subtropical","03/11/2023",2,5,6,7,8,1,NA,0.0094,0.8
+"316","Lycaenidae","Jamides aleuas",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,5,6,9,1,NA,0.0052,0.9
+"3168","Nymphalidae","Hypocysta metirius",10,"Male","CC","MFE","Subtropical","03/11/2023",0,0,2,4,5,1,"Brought from store and tested next day",0.007,0.5
+"3219","Nymphalidae","Euploea corinna",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,2,2,1,NA,0.171,0.2
+"3225","Hesperiidae","Trapezites symmomus",10,"Female","CC","HS","Subtropical","03/11/2023",0,0,0,0,0,1,NA,0.093,0
+"3226","Hesperiidae","Ocybadistes walkeri",10,"Female","CC","HS","Subtropical","03/11/2023",0,0,2,3,3,1,NA,0.011,0.3
+"3231","Lycaenidae","Leptotes plinius",10,"Female","CC","HS","Subtropical","03/11/2023",1,3,10,10,10,1,NA,0.004,1
+"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4
+"3235","Lycaenidae","Theclinesthes onycha",10,"Male","CC","HS","Subtropical","03/11/2023",0,2,4,5,7,1,NA,0.0087,0.7
+"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7
+"3319","Hesperiidae","Toxidia peron",10,"Female","CCF","LO + KL","Subtropical","03/11/2023",0,0,0,0,0,1,NA,0.056,0
+"3342","Hesperiidae","Toxidia peron",10,"Female","CC","KL","Subtropical","04/11/2023",0,0,2,2,2,1,"Brought from store and tested next day",0.018,0.2
+"335","Hesperiidae","Sabera caesina",10,"Female","JCU","MFE","Tropical","17/07/2022",0,1,1,2,3,1,NA,0.023,0.3
+"336","Hesperiidae","Suniana sunias",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,0,0,2,1,NA,0.0074,0.2
+"3371","Nymphalidae","Euploea corinna",10,"Male","CC","LO","Subtropical","04/11/2023",0,0,4,5,5,1,NA,0.208,0.5
+"3433","Hesperiidae","Toxidia peron",10,"Male","CC","MFE","Subtropical","04/11/2023",0,0,3,3,4,1,NA,0.026,0.4
+"3435","Nymphalidae","Melanitis leda",10,"Female","CC","MFE","Subtropical","04/11/2023",0,0,1,1,1,1,NA,0.084,0.1
+"3437","Nymphalidae","Melanitis leda",10,"Female","CC","MFE","Subtropical","04/11/2023",0,0,0,0,1,1,NA,0.146,0.1
+"345","Hesperiidae","Arrhenes dschilus",10,"Female","MR","HS","Tropical","19/07/2022",0,0,0,0,1,1,NA,0.02,0.1
+"349","Pieridae","Catopsilia pomona",10,"Male","MR","HS","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.1171,0
+"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3
+"355","Pieridae","Catopsilia pomona",10,"Female","MR","HS","Tropical","19/07/2022",0,0,0,1,1,1,NA,0.11,0.1
+"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8
+"36","Nymphalidae","Danaus affinis",10,"Male","BG","HS","Tropical","16/07/2022",0,0,3,4,4,1,NA,0.038,0.4
+"3621","Hesperiidae","Toxidia peron",10,"Male","JB","MFE","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.0307,0
+"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3
+"3635","Lycaenidae","Candalides hyacinthinus",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,2,1,"scales in liquid",0.005,0.2
+"3636","Lycaenidae","Candalides hyacinthinus",10,"Male","JB","MFE","Temperate","11/11/2023",0,0,0,1,1,1,NA,0.007,0.1
+"3641","Hesperiidae","Toxidia peron",10,"Male","JB","SS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.026,0
+"3643","Nymphalidae","Junonia villida",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.043,0
+"3644","Nymphalidae","Junonia villida",10,"Female","JB","SS","Temperate","11/11/2023",0,1,1,1,3,1,NA,0.06,0.3
+"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1
+"3677","Nymphalidae","Tisiphone abeona",10,"Male","JB","GW","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.028,0.1
+"3678","Nymphalidae","Tisiphone abeona",10,"Male","JB","GW","Temperate","11/11/2023",0,0,0,0,1,1,"Brought from store and tested next day",0.026,0.1
+"3679","Nymphalidae","Tisiphone abeona",10,"Male","JB","GW","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.024,0
+"368","Nymphalidae","Ypthima arctous",10,"Female","MR","LH","Tropical","19/07/2022",1,1,1,1,1,1,NA,0.01,0.1
+"3698","Nymphalidae","Vanessa kershawi",10,"Female","JB","PS","Temperate","11/11/2023",0,0,0,2,2,1,NA,0.022,0.2
+"3699","Lycaenidae","Candalides hyacinthinus",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.008,0
+"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0
+"3707","Nymphalidae","Tisiphone abeona",13,"Male","JB","HS","Temperate","11/11/2023",0,3,3,3,3,1,"13 daphnias in, 3 small ones died",0.019,0.230769230769231
+"3711","Hesperiidae","Mesodina halyzia",10,"Male","JB","HS","Temperate","11/11/2023",0,1,3,3,3,1,NA,0.031,0.3
+"3712","Hesperiidae","Mesodina halyzia",10,"Male","JB","HS","Temperate","11/11/2023",0,0,0,1,1,1,NA,0.036,0.1
+"3713","Hesperiidae","Toxidia peron",10,"Female","JB","HS","Temperate","11/11/2023",0,0,0,1,2,1,NA,0.047,0.2
+"3714","Hesperiidae","Mesodina halyzia",10,"Male","JB","HS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.051,0
+"3724","Lycaenidae","Candalides hyacinthinus",10,"Male","JB","HS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.007,0
+"3725","Lycaenidae","Candalides hyacinthinus",10,"Male","JB","HS","Temperate","11/11/2023",2,3,3,3,3,1,NA,0.005,0.3
+"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5
+"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3
+"3773","Pieridae","Pieris rapae",10,"Female","WLR","MEH","Temperate","12/11/2023",0,0,0,0,1,1,NA,0.0476,0.1
+"3781","Nymphalidae","Junonia villida",10,"Female","WLR","HS","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0643,0
+"38","Pieridae","Cepora perimale",10,"Male","BG","HS","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.027,0
+"3845","Nymphalidae","Danaus plexippus",10,"Male","WLR","SP","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.24475,0
+"389","Hesperiidae","Pelopidas agna",10,"Male","MR","LH","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.026,0
+"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0
+"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1
+"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3
+"3909","Nymphalidae","Junonia villida",10,"Female","WLR","LR","Temperate","12/11/2023",0,1,1,1,1,1,NA,0.0451,0.1
+"3913","Hesperiidae","Toxidia peron",10,"Male","WLR","LR","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.026,0
+"3923","Pieridae","Pieris rapae",10,"Female","WLR","LR","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.037,0
+"3924","Pieridae","Pieris rapae",10,"Male","WLR","LR","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0298,0
+"397","Nymphalidae","Mycalesis terminus",10,"Male","MR","LH","Tropical","19/07/22",0,0,0,1,1,1,NA,NA,0.1
+"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7
+"4","Hesperiidae","Notocrypta waigensis",10,"Female","BG","MFE","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.029,0
+"404","Hesperiidae","Arrhenes dschilus",10,"Female","MR","LH","Tropical","19/07/2022",0,0,3,3,3,1,NA,0.0184,0.3
+"4053","Hesperiidae","Ocybadistes walkeri",10,"Female","PP","MFE","Temperate","13/11/2023",0,0,0,1,1,1,NA,0.06983,0.1
+"4072","Pieridae","Pieris rapae",10,"Female","PP","MFE","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.049,0
+"408","Nymphalidae","Mycalesis sirius",10,"Female","MR","LH","Tropical","19/07/2022",0,0,5,6,7,1,NA,0.0194,0.7
+"4103","Pieridae","Pieris rapae",10,"Female","PP","MFE","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.045,0
+"412","Lycaenidae","Arhopala micale",10,"Female","MR","LH","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.0642,0
+"4131","Hesperiidae","Suniana sunias",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,1,1,NA,0.0127,0.1
+"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0
+"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0
+"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5
+"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7
+"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2
+"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2
+"4146","Pieridae","Eurema smilax",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.012,0
+"4176","Pieridae","Pieris rapae",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.0386,0
+"4185","Pieridae","Pieris rapae",10,"Male","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.034,0
+"4212","Pieridae","Pieris rapae",10,"Male","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.02128,0
+"4228","Nymphalidae","Mycalesis terminus",10,"Male","GP","MFE","Tropical","20/07/2022",0,0,0,0,0,1,NA,0.012,0
+"4233","Nymphalidae","Mycalesis perseus",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,1,1,2,1,NA,0.017,0.2
+"430","Lycaenidae","Arhopala micale",10,"Female","MR","LH","Tropical","19/07/2022",0,0,4,4,4,1,NA,0.04,0.4
+"450","Hesperiidae","Arrhenes dschilus",10,"Female","MR","LH","Tropical","19/07/2022",0,0,2,2,3,1,NA,0.018,0.3
+"458","Nymphalidae","Mycalesis sirius",10,"Female","MR","LH","Tropical","19/07/2022",0,2,3,7,7,1,NA,0.012,0.7
+"467","Lycaenidae","Arhopala micale",10,"Female","MR","LH","Tropical","19/07/2022",0,0,4,4,4,1,NA,0.052,0.4
+"468","Lycaenidae","Arhopala micale",10,"Female","MR","LH","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.0402,0
+"47","Lycaenidae","Arhopala micale",10,"Female","BG","MEH","Tropical","16/07/2022",0,0,1,4,6,1,NA,0.0392,0.6
+"470","Nymphalidae","Mycalesis terminus",10,"Male","MR","HS","Tropical","19/07/2022",0,0,2,3,3,1,NA,0.013,0.3
+"475","Pieridae","Eurema laeta",10,"Female","MR","HS","Tropical","19/07/2022",0,1,2,2,3,1,NA,0.004,0.3
+"484","Nymphalidae","Mycalesis sirius",10,"Female","MR","HS","Tropical","19/07/2022",0,0,1,2,3,1,"Brought from store and tested next day",0.013,0.3
+"487","Nymphalidae","Mycalesis terminus",10,"Female","MR","HS","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.032,0
+"496","Pieridae","Delias nigrina",10,"Male","MR","HS","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.022,0
+"499","Pieridae","Eurema hecabe",10,"Male","MR","MFE","Tropical","19/07/2022",0,0,0,0,1,1,NA,0.011,0.1
+"502","Nymphalidae","Mycalesis sirius",10,"Female","MR","MFE","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.0139,0
+"506","Hesperiidae","Arrhenes dschilus",10,"Female","MR","MFE","Tropical","19/07/2022",0,0,6,8,8,1,NA,0.0178,0.8
+"510","Nymphalidae","Mycalesis terminus",10,"Male","MR","MFE","Tropical","19/07/2022",0,0,3,4,4,1,NA,0.014,0.4
+"512","Nymphalidae","Mycalesis sirius",10,"Female","MR","MFE","Tropical","19/07/2022",0,0,1,1,2,1,"one out of water on the last check",0.0133,0.2
+"53","Nymphalidae","Euploea tulliolus",10,"Female","BG","LH","Tropical","17/07/2022",0,0,0,0,0,1,NA,0.066,0
+"541","Nymphalidae","Junonia hedonia",10,"Male","MR","MFE","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.045,0
+"546","Nymphalidae","Hypolimnas bolina",10,"Female","MR","MFE","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.1126,0
+"548","Pieridae","Catopsilia pomona",10,"Male","MR","MFE","Tropical","19/07/2022",0,3,7,7,7,1,NA,0.0934,0.7
+"549","Nymphalidae","Hypolimnas bolina",10,"Male","MR","SS","Tropical","19/07/2022",0,0,6,7,7,1,NA,0.151,0.7
+"55","Pieridae","Delias mysis",10,"Male","BG","HS","Tropical","17/07/2022",0,0,0,0,0,1,NA,0.042,0
+"563","Nymphalidae","Mycalesis terminus",10,"Female","MR","SS","Tropical","19/07/2022",0,0,0,0,1,1,NA,0.0271,0.1
+"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7
+"6","Lycaenidae","Hypolycaena phorbas",10,"Female","BG","MFE","Tropical","16/07/2022",0,1,1,4,5,1,NA,0.017,0.5
+"608","Hesperiidae","Arrhenes dschilus",10,"Female","MR","SS","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.0323,0
+"61","Nymphalidae","Cethosia cydippe",10,"Male","BG","LH","Tropical","17/07/2022",0,0,0,1,1,1,NA,0.041,0.1
+"613","Nymphalidae","Hypolimnas bolina",10,"Female","MR","SS","Tropical","19/07/2022",0,0,0,0,0,1,NA,0.0634,0
+"617","Nymphalidae","Euploea tulliolus",10,"Female","GP","HS","Tropical","20/07/2022",0,0,3,3,6,1,NA,0.045,0.6
+"620","Nymphalidae","Cupha prosope",10,"Female","GP","HS","Tropical","20/07/2022",0,0,2,6,8,1,NA,0.022,0.8
+"623","Nymphalidae","Pantoporia consimilis",10,"Female","GP","HS","Tropical","20/07/2022",0,0,3,3,3,1,NA,0.021,0.3
+"65","Pieridae","Delias nigrina",10,"Male","BG","LH","Tropical","17/07/2022",0,0,0,0,0,1,NA,0.0334,0
+"656","Nymphalidae","Cupha prosope",10,"Female","GP","MFE","Tropical","20/07/2022",0,0,0,0,0,1,NA,0.029,0
+"668","Pieridae","Delias mysis",10,"Male","GP","MFE","Tropical","20/07/2022",0,0,3,3,5,1,NA,0.032,0.5
+"670","Nymphalidae","Pantoporia consimilis",10,"Female","GP","MFE","Tropical","20/07/2022",0,0,1,3,8,1,NA,0.008,0.8
+"672","Hesperiidae","Sabera caesina",10,"Female","GP","MFE","Tropical","20/07/2022",0,0,0,3,3,1,NA,0.015,0.3
+"674","Nymphalidae","Pantoporia consimilis",10,"Female","GP","MFE","Tropical","20/07/2022",0,0,5,5,7,1,NA,0.018,0.7
+"684","Nymphalidae","Pantoporia consimilis",10,"Female","GP","LH","Tropical","20/07/2022",0,0,1,1,1,1,NA,0.014,0.1
+"685","Lycaenidae","Psychonotis caelius",10,"Male","GP","LH","Tropical","20/07/2022",0,0,6,6,7,1,"All & only small dead",0.005,0.7
+"706","Hesperiidae","Arrhenes dschilus",10,"Male","GP","LH","Tropical","20/07/2022",0,0,0,0,0,1,NA,0.0238,0
+"71","Pieridae","Delias mysis",10,"Male","BG","HS","Tropical","17/07/2022",0,1,3,4,5,1,NA,0.023,0.5
+"724","Nymphalidae","Pantoporia consimilis",10,"Female","GP","LH","Tropical","20/07/2022",0,10,10,10,10,1,"Brought from store and tested next day",0.011,1
+"728","Nymphalidae","Pantoporia consimilis",10,"Female","GP","LH","Tropical","21/07/2022",0,0,0,1,5,1,NA,0.011,0.5
+"737","Hesperiidae","Pelopidas agna",10,"Male","GP","SS","Tropical","21/07/2022",0,0,5,7,8,1,NA,0.035,0.8
+"740","Hesperiidae","Arrhenes dschilus",10,"Female","GP","SS","Tropical","21/07/2022",0,0,0,0,2,1,NA,0.023,0.2
+"747","Hesperiidae","Notocrypta waigensis",10,"Male","GP","MFE","Tropical","21/07/2022",0,0,0,0,0,1,NA,0.018,0
+"753","Nymphalidae","Melanitis leda",10,"Male","GP","MFE","Tropical","21/07/2022",0,0,2,4,4,1,NA,0.0748,0.4
+"757","Hesperiidae","Ocybadistes flavovittatus",10,"Female","OC","SS","Subtropical","21/09/2022",0,0,0,0,1,1,NA,0.011,0.1
+"771","Pieridae","Belenois java",11,"Female","OC","HS","Subtropical","21/09/2022",0,2,3,3,3,1,"11 daphnia in!",0.12,0.272727272727273
+"79","Lycaenidae","Hypolycaena phorbas",10,"Male","BG","LH","Tropical","17/07/2022",0,0,3,4,4,1,NA,0.019,0.4
+"802","Pieridae","Eurema smilax",10,"Male","OC","SS","Subtropical","21/09/2022",0,2,2,5,6,1,"Brought from store and tested next day",0.004,0.6
+"822","Hesperiidae","Ocybadistes flavovittatus",10,"Female","OC","CI","Subtropical","21/09/2022",0,1,3,4,7,1,NA,0.009,0.7
+"856","Pieridae","Eurema hecabe",10,"Female","OC","CI","Subtropical","21/09/2022",1,1,4,4,2,1,NA,0.006,0.2
+"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2
+"874","Pieridae","Belenois java",10,"Male","OC","CI","Subtropical","21/09/2022",0,0,0,0,0,1,NA,0.042,0
+"898","Pieridae","Belenois java",10,"Female","OC","CI","Subtropical","21/09/2022",0,0,0,1,1,1,"Written as 989, corrected using extraction spreedsheet",0.108,0.1
+"906","Nymphalidae","Euploea tulliolus",10,"Female","OC","HS","Subtropical","21/09/2022",1,5,7,7,8,1,NA,0.0906,0.8
+"919","Pieridae","Delias nigrina",10,"Male","OC","SS","Subtropical","21/09/2022",0,0,0,0,0,1,NA,0.033,0
+"93","Pieridae","Eurema hecabe",10,"Male","JCU","MFE","Tropical","17/07/2022",0,2,3,6,7,1,"All & only small dead",0.009,0.7
+"930","Lycaenidae","Lampides boeticus",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,3,3,4,1,NA,0.0082,0.4
+"931","Hesperiidae","Ocybadistes flavovittatus",10,"Female","OC","MFE","Subtropical","21/09/2022",0,0,0,0,0,1,NA,0.008,0
+"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9
+"944","Pieridae","Eurema hecabe",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,0,0,2,1,NA,0.0118,0.2
+"949","Nymphalidae","Danaus plexippus",10,"Female","OC","CI","Subtropical","21/09/2022",3,4,7,8,8,1,"only small ones died",0.22,0.8
+"950","Nymphalidae","Euploea tulliolus",10,"Female","OC","MFE","Subtropical","21/09/2022",0,1,3,5,7,1,NA,0.0913,0.7
+"951","Pieridae","Belenois java",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,0,0,0,1,NA,0.041,0
+"96","Pieridae","Eurema laeta",10,"Male","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.006,0
+"971","Pieridae","Belenois java",10,"Female","OC","HS","Subtropical","21/09/2022",0,0,1,2,2,1,"written as 917, corrected using extraction sheet",0.085,0.2
+"983","Pieridae","Eurema smilax",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.0097,0
+"994","Pieridae","Eurema smilax",10,"Female","BBG","SS","Subtropical","20/09/2022",0,0,2,2,2,1,NA,0.006,0.2
+"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3
+"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8
+"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0
+"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4
+"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1
+"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4
+"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3
+"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2
+"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5
+"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1
+"bw1","Nymphalidae","Pantoporia venilia",10,"Female","Cooktown","LO","Tropical","28/11/2023",2,2,10,10,10,1,NA,0.024,1
+"cc1","Papilionidae","Cressida cressida",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.114,0
+"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2
+"cc2","Papilionidae","Cressida cressida",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,"baby in not accounted for",0.198,0
+"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2
+"cc3","Papilionidae","Cressida cressida",10,"Female","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.136,0
+"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7
+"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5
+"cc5","Papilionidae","Cressida cressida",10,"Female","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.153,0
+"cc6","Papilionidae","Cressida cressida",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.278,0
+"cet1","Nymphalidae","Cethosia cydippe",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,0,1,4,1,"gave birth",0.14,0.4
+"crt1","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.055,0
+"crt10","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.1486,0
+"crt2","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,1,1,1,1,1,1,NA,0.136,0.1
+"crt3","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.1698,0
+"crt4","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,"Brought from store and tested next day",0.14,0
+"crt5","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,2,1,NA,0.1528,0.2
+"crt6","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.1576,0
+"crt7","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.176,0
+"crt8","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.1421,0
+"crt9","Control","Acheta domesticus",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.1123,0
+"H2O10","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O11","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O12","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O13","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O14","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O15","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O16","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O17","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O18","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O2","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O21","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O3","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O4","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O5","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O6","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O7","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O8","Control","H2O",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"H2O9","Control","H2O",12,NA,NA,NA,NA,NA,0,0,0,0,1,NA,"Brought from store and tested next day/12 daphnia in",NA,0.0833333333333333
+"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6
+"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0
+"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5
+"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9
+"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7
+"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1
+"LP1","Lycaenidae","Leptotes plinius",10,"Male","OC","SS","Temperate","21/09/2022",1,1,3,3,6,2,NA,0.006,0.6
+"LP2","Lycaenidae","Leptotes plinius",10,"Male","BBG","ZW","Subtropical","31/10/2023",0,0,1,3,5,2,"scales in liquid",0.005,0.5
+"LP3","Lycaenidae","Leptotes plinius",10,"Male","BBG","ZW","Subtropical","31/10/2023",0,0,4,5,9,2,NA,0.006,0.9
+"LP4","Lycaenidae","Leptotes plinius",10,"Female","BBG","DS","Subtropical","31/10/2023",0,0,1,4,5,2,NA,0.006,0.5
+"LP5","Lycaenidae","Leptotes plinius",10,"Male","CC","LO","Subtropical","4/11/2023",0,0,1,2,3,2,NA,0.005,0.3
+"met10","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,1,1,1,NA,NA,NA,0.1
+"met11","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met12","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met13","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met14","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met15","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met16","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met17","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met18","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met2","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met21","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met3","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met4","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met5","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met6","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met7","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,0
+"met8","Control","Methanol",8,NA,NA,NA,NA,NA,0,0,0,0,0,NA,"Put 10 daphnia in, but had lots of bubbles, so I used a pipete tip to poke the bubbles and killed 2 daphnia, which means this trial only had 8!!!!",NA,0
+"met9","Control","Methanol",10,NA,NA,NA,NA,NA,0,0,0,0,0,NA,"Brought from store and tested next day",NA,0
+"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1
+"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6
+"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6
+"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4
+"np1","Nymphalidae","Tellervo zoilus ",10,"Male","Cooktown","LO","Tropical","28/11/2023",1,1,7,7,7,1,NA,0.009,0.7
+"np2","Nymphalidae","Tellervo zoilus ",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,3,3,4,1,NA,0.022,0.4
+"np3","Nymphalidae","Tellervo zoilus ",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,4,6,6,1,NA,0.015,0.6
+"np4","Nymphalidae","Tellervo zoilus ",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,5,7,7,8,1,NA,0.021,0.8
+"np5","Nymphalidae","Tellervo zoilus ",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,2,8,8,9,1,NA,0.013,0.9
+"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9
+"PC3","Lycaenidae","Psychonotis caelius",10,"Male","MR","HS","Tropical","20/07/2022",0,0,1,3,4,2,"scales in liquid",0.007,0.4
+"ps1","Nymphalidae","Pantoporia venilia",10,"Female","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.016,0
+"ps2","Nymphalidae","Pantoporia venilia",10,"Male","Cooktown","LO","Tropical","28/11/2023",0,0,0,0,0,1,NA,0.014,0
+"rch1","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.0425,0
+"rch10","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.0324,0
+"rch2","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.0311,0
+"rch3","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.021,0
+"rch4","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.019,0
+"rch5","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,"on timing 2 & 3 there was a dead one, but was very alive last time",0.0258,0
+"rch6","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,2,2,2,2,2,1,NA,0.03,0.2
+"rch7","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.022,0
+"rch8","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,1,1,1,1,1,1,"Brought from store and tested next day",0.024,0.1
+"rch9","Control","Nauphoeta cinerea",10,"Unknown",NA,NA,NA,NA,0,0,0,0,0,1,NA,0.0308,0
+"zhf1","Lycaenidae","Zizula hylax",10,"Female",NA,NA,"Subtropical",NA,0,3,3,3,5,6,NA,0.0049,0.5
+"zhf3","Lycaenidae","Zizula hylax",10,"Female","CC",NA,"Subtropical","3/11/2023",2,2,5,7,7,4,NA,0.006,0.7
+"zhf4","Lycaenidae","Zizula hylax",10,"Female",NA,NA,"Subtropical",NA,0,0,0,0,0,6,NA,0.01,0
+"zhf6","Lycaenidae","Zizula hylax",10,"Female",NA,NA,NA,NA,0,1,1,3,7,5,NA,0.007,0.7
+"zhm4","Lycaenidae","Zizula hylax",10,"Male",NA,NA,NA,NA,0,4,9,9,10,5,NA,0.005,1
+"zhm6","Lycaenidae","Zizula hylax",10,"Male",NA,NA,"Subtropical",NA,1,1,9,10,10,5,"scales in liquid",NA,1
+"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6
+"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6
+"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3
+"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2
