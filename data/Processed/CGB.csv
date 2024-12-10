@@ -1,64 +1,64 @@
-"ID","Family","Binomial","Ndaphnia","Sex","Site","Collector","Climate","Date","X30m","X60m","X120m","X180m","X240m","nbut","Notes","weight","death.p"
-"1017","Lycaenidae","Zizina otis",10,"Female","BBG","SS","Subtropical","20/09/2022",0,1,6,6,6,1,NA,0.006,0.6
-"1040","Lycaenidae","Zizina otis",10,"Female","BBG","MFE","Subtropical","20/09/2022",0,0,0,0,0,1,NA,0.007,0
-"1113","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,0,1,10,10,1,NA,0.005,1
-"1125","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,1,2,5,1,NA,0.004,0.5
-"1127","Lycaenidae","Zizina otis",10,"Female","LSP","SS","Subtropical","23/09/2022",0,1,2,3,4,1,NA,0.009,0.4
-"1199","Lycaenidae","Zizina otis",10,"Female","LSP","MFE","Subtropical","23/09/2022",0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1
-"127","Lycaenidae","Zizina otis",10,"Female","JCU","LH","Tropical","16/07/2022",0,0,0,0,0,1,NA,0.004,0
-"2419","Lycaenidae","Zizina otis",10,"Female","MR","LO","Tropical","02/07/2023",0,0,5,8,8,1,NA,0.006,0.8
-"2552","Lycaenidae","Zizina otis",10,"Male","MR","MFE","Tropical","02/07/2023",0,0,1,2,3,1,"scales in liquid",0.004,0.3
-"2978","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","01/11/2023",0,0,0,0,0,1,NA,0.004,0
-"2999","Lycaenidae","Zizina otis",10,"Female","OC","ZW","Subtropical","01/11/2023",0,2,3,5,5,1,NA,0.009,0.5
-"3074","Lycaenidae","Zizina otis",10,"Male","LSP","ZW","Subtropical","2/11/2023",0,0,0,2,2,1,NA,0.005,0.2
-"3232","Lycaenidae","Zizina otis",10,"Male","CC","HS","Subtropical","03/11/2023",0,0,0,3,4,1,NA,0.005,0.4
-"329","Lycaenidae","Zizina otis",10,"Male","JCU","MFE","Tropical","17/07/2022",0,0,6,7,7,1,"scales in liquid",0.004,0.7
-"3513","Lycaenidae","Zizina otis",10,"Female","AO","HS","Temperate","10/11/2023",0,0,0,2,3,1,NA,0.005,0.3
-"3585","Lycaenidae","Zizina otis",10,"Female","AO","SS","Temperate","10/11/2023",2,6,7,8,8,1,"Brought from store and tested next day",0.007,0.8
-"3630","Lycaenidae","Zizina otis",10,"Male","JB","MFE","Temperate","11/11/2023",0,1,2,2,3,1,NA,0.007,0.3
-"3674","Lycaenidae","Zizina otis",10,"Female","JB","SS","Temperate","11/11/2023",0,0,0,0,1,1,NA,0.007,0.1
-"3701","Lycaenidae","Zizina otis",10,"Male","JB","PS","Temperate","11/11/2023",0,0,0,0,0,1,NA,0.006,0
-"3739","Lycaenidae","Zizina otis",10,"Female","WLR","MEH","Temperate","12/11/2023",1,1,3,5,5,1,NA,0.007,0.5
-"3750","Lycaenidae","Zizina otis",10,"Male","WLR","MEH","Temperate","12/11/2023",0,1,3,3,3,1,"scales in liquid",0.004,0.3
-"3898","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,0,0,0,1,NA,0.0087,0
-"3904","Lycaenidae","Zizina otis",10,"Male","WLR","MFE","Temperate","12/11/2023",0,0,0,1,1,1,NA,0.006,0.1
-"3905","Lycaenidae","Zizina otis",10,"Female","WLR","MFE","Temperate","12/11/2023",0,0,2,3,3,1,NA,0.006,0.3
-"399","Lycaenidae","Zizina otis",10,"Male","MR","LH","Tropical","19/07/2022",0,0,7,7,7,1,NA,0.006,0.7
-"4135","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.006,0
-"4136","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,0,0,1,NA,0.005,0
-"4137","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,3,5,1,NA,0.004,0.5
-"4140","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,3,4,6,7,1,NA,0.005,0.7
-"4141","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,1,2,2,1,NA,0.006,0.2
-"4144","Lycaenidae","Zizina otis",10,"Female","PP","LO","Temperate","13/11/2023",0,0,0,1,2,1,NA,0.004,0.2
-"586","Lycaenidae","Zizina otis",10,"Male","MR","SS","Tropical","19/07/2022",0,0,4,5,7,1,NA,0.004,0.7
-"860","Lycaenidae","Zizina otis",10,"Male","OC","MFE","Subtropical","21/09/2022",0,0,1,2,2,1,NA,0.005,0.2
-"939","Lycaenidae","Zizina otis",10,"Female","OC","CI","Subtropical","21/09/2022",0,3,7,9,9,1,NA,0.004,0.9
-"996","Lycaenidae","Zizina otis",10,"Female","BBG","HS","Subtropical","20/09/2022",0,0,2,3,3,1,NA,0.007,0.3
-"998","Lycaenidae","Zizina otis",10,"Male","BBG","HS","Subtropical","20/09/2022",0,0,5,7,8,1,NA,0.006,0.8
-"ao1","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,0,0,0,2,NA,0.007,0
-"ao2","Lycaenidae","Zizina otis",10,"Female","AO",NA,"Temperate","10/11/2023",0,0,0,1,4,2,NA,0.006,0.4
-"ao3","Lycaenidae","Zizina otis",10,"Male","AO",NA,"Temperate","10/11/2023",0,0,1,1,1,2,NA,0.006,0.1
-"bbg1","Lycaenidae","Zizina otis",10,"Male","BBG",NA,"Subtropical","20/09/2022",0,2,4,4,4,2,NA,0.007,0.4
-"bg1","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,3,2,NA,0.005,0.3
-"bg2","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,0,1,2,2,NA,0.005,0.2
-"bg3","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,3,5,5,2,NA,0.005,0.5
-"bg4","Lycaenidae","Zizina otis",10,"Male","BG",NA,"Tropical","17/07/2022",0,0,10,10,10,2,NA,0.006,1
-"CC1","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,1,1,2,2,NA,0.008,0.2
-"CC2","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,0,2,2,2,NA,0.007,0.2
-"CC3","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","1/11/2023",0,0,5,6,7,2,NA,0.006,0.7
-"CC4","Lycaenidae","Zizina otis",10,"Male","CC",NA,"Subtropical","3/11/2023",0,0,5,5,5,2,NA,0.008,0.5
-"jb1","Lycaenidae","Zizina otis",10,"Female","JB",NA,"Temperate","3/11/2023",0,0,1,3,6,2,NA,0.004,0.6
-"jb2","Lycaenidae","Zizina otis",10,"Male","JB",NA,"Temperate","3/11/2023",0,0,0,0,0,2,NA,0.007,0
-"jcu1","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","1/07/2023",0,0,2,4,5,2,NA,0.005,0.5
-"jcu3","Lycaenidae","Zizina otis",10,"Female","JCU",NA,"Tropical","16/07/2022",0,0,2,9,9,2,NA,0.005,0.9
-"jcu5","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",2,4,4,5,7,2,"scales in the daphnia after 30min",0.004,0.7
-"jcu8","Lycaenidae","Zizina otis",10,"Male","JCU",NA,"Tropical","17/07/2022",0,0,1,1,1,2,NA,0.006,0.1
-"mr1","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,0,1,1,2,NA,0.007,0.1
-"mr2","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical",NA,0,0,1,5,6,2,NA,0.006,0.6
-"mr3","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","2/07/2023",0,0,6,6,6,2,NA,0.004,0.6
-"mr4","Lycaenidae","Zizina otis",10,"Male","MR",NA,"Tropical","19/07/2022",0,0,0,3,4,2,"scales in liquid",0.005,0.4
-"PC1","Lycaenidae","Zizina otis",10,"Female",NA,NA,"Temperate",NA,1,3,8,8,9,2,NA,0.008,0.9
-"ZO8","Lycaenidae","Zizina otis",10,"Male",NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6
-"ZO9","Lycaenidae","Zizina otis",10,"Male","OC","ZW","Subtropical","1/11/2023",0,0,3,6,6,2,NA,0.006,0.6
-"zof1","Lycaenidae","Zizina otis",10,"Female",NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3
-"ZOM3","Lycaenidae","Zizina otis",10,"Male",NA,NA,"Temperate",NA,0,0,2,2,2,2,NA,0.008,0.2
+ID,Family,Binomial,Ndaphnia,Sex,Site,Collector,Climate,Date,X30m,X60m,X120m,X180m,X240m,nbut,Notes,weight,death.p
+1017,Lycaenidae,Zizina otis,10,Female,BBG,SS,Subtropical,20/09/2022,0,1,6,6,6,1,NA,0.006,0.6
+1040,Lycaenidae,Zizina otis,10,Female,BBG,MFE,Subtropical,20/09/2022,0,0,0,0,0,1,NA,0.007,0
+1113,Lycaenidae,Zizina otis,10,Female,LSP,SS,Subtropical,23/09/2022,0,0,1,10,10,1,NA,0.005,1
+1125,Lycaenidae,Zizina otis,10,Female,LSP,SS,Subtropical,23/09/2022,0,1,1,2,5,1,NA,0.004,0.5
+1127,Lycaenidae,Zizina otis,10,Female,LSP,SS,Subtropical,23/09/2022,0,1,2,3,4,1,NA,0.009,0.4
+1199,Lycaenidae,Zizina otis,10,Female,LSP,MFE,Subtropical,23/09/2022,0,0,1,1,1,1,"2 BABIES PROBS BORN on tube, so did not count, but dies",0.005,0.1
+127,Lycaenidae,Zizina otis,10,Female,JCU,LH,Tropical,16/07/2022,0,0,0,0,0,1,NA,0.004,0
+2419,Lycaenidae,Zizina otis,10,Female,MR,LO,Tropical,2/07/2023,0,0,5,8,8,1,NA,0.006,0.8
+2552,Lycaenidae,Zizina otis,10,Male,MR,MFE,Tropical,2/07/2023,0,0,1,2,3,1,scales in liquid,0.004,0.3
+2978,Lycaenidae,Zizina otis,10,Male,OC,MFE,Subtropical,1/11/2023,0,0,0,0,0,1,NA,0.004,0
+2999,Lycaenidae,Zizina otis,10,Female,OC,ZW,Subtropical,1/11/2023,0,2,3,5,5,1,NA,0.009,0.5
+3074,Lycaenidae,Zizina otis,10,Male,LSP,ZW,Subtropical,2/11/2023,0,0,0,2,2,1,NA,0.005,0.2
+3232,Lycaenidae,Zizina otis,10,Male,CC,HS,Subtropical,3/11/2023,0,0,0,3,4,1,NA,0.005,0.4
+329,Lycaenidae,Zizina otis,10,Male,JCU,MFE,Tropical,17/07/2022,0,0,6,7,7,1,scales in liquid,0.004,0.7
+3513,Lycaenidae,Zizina otis,10,Female,AO,HS,Temperate,10/11/2023,0,0,0,2,3,1,NA,0.005,0.3
+3585,Lycaenidae,Zizina otis,10,Female,AO,SS,Temperate,10/11/2023,2,6,7,8,8,1,Brought from store and tested next day,0.007,0.8
+3630,Lycaenidae,Zizina otis,10,Male,JB,MFE,Temperate,11/11/2023,0,1,2,2,3,1,NA,0.007,0.3
+3674,Lycaenidae,Zizina otis,10,Female,JB,SS,Temperate,11/11/2023,0,0,0,0,1,1,NA,0.007,0.1
+3701,Lycaenidae,Zizina otis,10,Male,JB,PS,Temperate,11/11/2023,0,0,0,0,0,1,NA,0.006,0
+3739,Lycaenidae,Zizina otis,10,Female,WLR,MEH,Temperate,12/11/2023,1,1,3,5,5,1,NA,0.007,0.5
+3750,Lycaenidae,Zizina otis,10,Male,WLR,MEH,Temperate,12/11/2023,0,1,3,3,3,1,scales in liquid,0.004,0.3
+3898,Lycaenidae,Zizina otis,10,Female,WLR,MFE,Temperate,12/11/2023,0,0,0,0,0,1,NA,0.0087,0
+3904,Lycaenidae,Zizina otis,10,Male,WLR,MFE,Temperate,12/11/2023,0,0,0,1,1,1,NA,0.006,0.1
+3905,Lycaenidae,Zizina otis,10,Female,WLR,MFE,Temperate,12/11/2023,0,0,2,3,3,1,NA,0.006,0.3
+399,Lycaenidae,Zizina otis,10,Male,MR,LH,Tropical,19/07/2022,0,0,7,7,7,1,NA,0.006,0.7
+4135,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,0,0,0,0,1,NA,0.006,0
+4136,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,0,0,0,0,1,NA,0.005,0
+4137,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,0,0,3,5,1,NA,0.004,0.5
+4140,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,3,4,6,7,1,NA,0.005,0.7
+4141,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,0,1,2,2,1,NA,0.006,0.2
+4144,Lycaenidae,Zizina otis,10,Female,PP,LO,Temperate,13/11/2023,0,0,0,1,2,1,NA,0.004,0.2
+586,Lycaenidae,Zizina otis,10,Male,MR,SS,Tropical,19/07/2022,0,0,4,5,7,1,NA,0.004,0.7
+860,Lycaenidae,Zizina otis,10,Male,OC,MFE,Subtropical,21/09/2022,0,0,1,2,2,1,NA,0.005,0.2
+939,Lycaenidae,Zizina otis,10,Female,OC,CI,Subtropical,21/09/2022,0,3,7,9,9,1,NA,0.004,0.9
+996,Lycaenidae,Zizina otis,10,Female,BBG,HS,Subtropical,20/09/2022,0,0,2,3,3,1,NA,0.007,0.3
+998,Lycaenidae,Zizina otis,10,Male,BBG,HS,Subtropical,20/09/2022,0,0,5,7,8,1,NA,0.006,0.8
+ao1,Lycaenidae,Zizina otis,10,Male,AO,NA,Temperate,10/11/2023,0,0,0,0,0,2,NA,0.007,0
+ao2,Lycaenidae,Zizina otis,10,Female,AO,NA,Temperate,10/11/2023,0,0,0,1,4,2,NA,0.006,0.4
+ao3,Lycaenidae,Zizina otis,10,Male,AO,NA,Temperate,10/11/2023,0,0,1,1,1,2,NA,0.006,0.1
+bbg1,Lycaenidae,Zizina otis,10,Male,BBG,NA,Subtropical,20/09/2022,0,2,4,4,4,2,NA,0.007,0.4
+bg1,Lycaenidae,Zizina otis,10,Male,BG,NA,Tropical,17/07/2022,0,0,0,1,3,2,NA,0.005,0.3
+bg2,Lycaenidae,Zizina otis,10,Male,BG,NA,Tropical,17/07/2022,0,0,0,1,2,2,NA,0.005,0.2
+bg3,Lycaenidae,Zizina otis,10,Male,BG,NA,Tropical,17/07/2022,0,0,3,5,5,2,NA,0.005,0.5
+bg4,Lycaenidae,Zizina otis,10,Male,BG,NA,Tropical,17/07/2022,0,0,10,10,10,2,NA,0.006,1
+CC1,Lycaenidae,Zizina otis,10,Male,CC,NA,Subtropical,3/11/2023,0,0,1,1,2,2,NA,0.008,0.2
+CC2,Lycaenidae,Zizina otis,10,Male,CC,NA,Subtropical,3/11/2023,0,0,0,2,2,2,NA,0.007,0.2
+CC3,Lycaenidae,Zizina otis,10,Male,CC,NA,Subtropical,1/11/2023,0,0,5,6,7,2,NA,0.006,0.7
+CC4,Lycaenidae,Zizina otis,10,Male,CC,NA,Subtropical,3/11/2023,0,0,5,5,5,2,NA,0.008,0.5
+jb1,Lycaenidae,Zizina otis,10,Female,JB,NA,Temperate,3/11/2023,0,0,1,3,6,2,NA,0.004,0.6
+jb2,Lycaenidae,Zizina otis,10,Male,JB,NA,Temperate,3/11/2023,0,0,0,0,0,2,NA,0.007,0
+jcu1,Lycaenidae,Zizina otis,10,Male,JCU,NA,Tropical,1/07/2023,0,0,2,4,5,2,NA,0.005,0.5
+jcu3,Lycaenidae,Zizina otis,10,Female,JCU,NA,Tropical,16/07/2022,0,0,2,9,9,2,NA,0.005,0.9
+jcu5,Lycaenidae,Zizina otis,10,Male,JCU,NA,Tropical,17/07/2022,2,4,4,5,7,2,scales in the daphnia after 30min,0.004,0.7
+jcu8,Lycaenidae,Zizina otis,10,Male,JCU,NA,Tropical,17/07/2022,0,0,1,1,1,2,NA,0.006,0.1
+mr1,Lycaenidae,Zizina otis,10,Male,MR,NA,Tropical,2/07/2023,0,0,0,1,1,2,NA,0.007,0.1
+mr2,Lycaenidae,Zizina otis,10,Male,MR,NA,Tropical,NA,0,0,1,5,6,2,NA,0.006,0.6
+mr3,Lycaenidae,Zizina otis,10,Male,MR,NA,Tropical,2/07/2023,0,0,6,6,6,2,NA,0.004,0.6
+mr4,Lycaenidae,Zizina otis,10,Male,MR,NA,Tropical,19/07/2022,0,0,0,3,4,2,scales in liquid,0.005,0.4
+PC1,Lycaenidae,Zizina otis,10,Female,NA,NA,Temperate,NA,1,3,8,8,9,2,NA,0.008,0.9
+ZO8,Lycaenidae,Zizina otis,10,Male,NA,NA,NA,NA,0,0,1,2,6,2,NA,0.006,0.6
+ZO9,Lycaenidae,Zizina otis,10,Male,OC,ZW,Subtropical,1/11/2023,0,0,3,6,6,2,NA,0.006,0.6
+zof1,Lycaenidae,Zizina otis,10,Female,NA,NA,NA,NA,0,1,1,2,3,2,NA,0.00816,0.3
+ZOM3,Lycaenidae,Zizina otis,10,Male,NA,NA,Temperate,NA,0,0,2,2,2,2,NA,0.008,0.2
