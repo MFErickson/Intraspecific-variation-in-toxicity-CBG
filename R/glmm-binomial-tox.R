@@ -96,3 +96,16 @@ print(contingency_table)
 
 
 ####Use quasibinomial & Binomial controling for site, and without controling for site: Compare AIC and put this on paper. Get graph better. Discuss model has overdispersion. Check vif.
+
+#Save plots ----
+ggsave(plot = p1, 
+       filename = "output/figures/plot1.png",
+       width = 6.5, 
+       height = 4, 
+       dpi = 300)
+
+ggsave(plot = p2, 
+       filename = "output/figures/plot2.png",
+       width = 6.5, 
+       height = 4, 
+       dpi = 300)
