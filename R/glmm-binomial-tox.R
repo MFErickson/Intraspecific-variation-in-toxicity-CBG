@@ -55,38 +55,15 @@ m_simple<- glm(cbind(X240m, live) ~ Climate + Sex,
 
 summary(m_simple)
 
-plot(cooks.distance(m_simple))
-
-library(DHARMa)
-residuals_simulated <- simulateResiduals(fittedModel = m_simple)
-# Verificar diagnósticos gráficos# Verificar diagnósticm_simpleos gráficos
-plot(residuals_simulated)
-
-# Testar sobredispersão
-testDispersion(residuals_simulated)
-
-# Testar outliers
-testOutliers(residuals_simulated)
-
 ##### Check models
-summary(m)
 anova(m, m_simple)
 
 #### Plot data
 
-library(ggplot2)
 ggplot(CGB_subset, aes(x = Climate, y = death.p, fill=Sex)) +
   geom_boxplot(position = "dodge") +
   ylab("Death proportion")+
-  theme_classic()
-
-
-library(ggplot2)
-ggplot(CGB_subset, aes(x = Sex, y = Lum_Mean.fd, fill= death.p)) +
-  geom_boxplot(position = "dodge") +
-  ylab("Death proportion")+
-  theme_classic()
-
+  theme_classic(base_size = 16)
 
 
 #################
@@ -99,4 +76,3 @@ print(contingency_table)
 
 
 ####Use quasibinomial & Binomial controling for site, and without controling for site: Compare AIC and put this on paper. Get graph better. Discuss model has overdispersion. Check vif.
-#### Still need to look at colour
