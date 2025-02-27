@@ -18,8 +18,6 @@ CGB <- read.csv("data/raw/CGB_col.csv")
 
 any(duplicated(CGB))  # There is any duplicated rows?
 any(is.na(CGB))
-na_check <- inspectdf::inspect_na(CGB) # Percentage of NA in each columns
-na_check
 
 ### 3. Clean & filter data ----
 
@@ -33,7 +31,7 @@ CGB$Sex <- as.factor(CGB$Sex)
 CGB_subset <- na.omit(CGB[, c("X240m", "live", "Climate", "Sex", "Site", "SS", "death.p", "Lum_Mean.hd", "Lum_StdDev.hd", "Sat_Mean.hd", "Sat_StdDev.hd",
                               "Lum_Mean.fd", "Lum_StdDev.fd", "Sat_Mean.fd", "Sat_StdDev.fd",
                               "Lum_Mean.hv", "Lum_StdDev.hv", "Sat_Mean.hv", "Sat_StdDev.hv",
-                              "Lum_Mean.fv", "Lum_StdDev.fv", "Sat_Mean.fv", "Sat_StdDev.fv")])
+                              "Lum_Mean.fv", "Lum_StdDev.fv", "Sat_Mean.fv", "Sat_StdDev.fv")]) #remove lines with NA for model variables
 
 
 ### 4. Check for Colinearity
