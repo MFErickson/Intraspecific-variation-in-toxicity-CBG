@@ -28,7 +28,7 @@ CGB$Climate <- as.factor(CGB$Climate)
 CGB$Sex <- as.factor(CGB$Sex) 
 
 
-CGB_subset <- na.omit(CGB[, c("X240m", "live", "Climate", "Sex", "Site", "SS", "death.p", "Lum_Mean.hd", "Lum_StdDev.hd", "Sat_Mean.hd", "Sat_StdDev.hd",
+CGB_subset <- na.omit(CGB[, c("X240m", "live", "Climate", "Sex", "Site", "death.p", "Lum_Mean.hd", "Lum_StdDev.hd", "Sat_Mean.hd", "Sat_StdDev.hd",
                               "Lum_Mean.fd", "Lum_StdDev.fd", "Sat_Mean.fd", "Sat_StdDev.fd",
                               "Lum_Mean.hv", "Lum_StdDev.hv", "Sat_Mean.hv", "Sat_StdDev.hv",
                               "Lum_Mean.fv", "Lum_StdDev.fv", "Sat_Mean.fv", "Sat_StdDev.fv")]) #remove lines with NA for model variables
