@@ -1,4 +1,4 @@
-# submited to Biology letters
+# Submited to Biology letters
 
 _Marilia Fernandes Erickson_
     
