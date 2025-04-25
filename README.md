@@ -1,10 +1,10 @@
-# Submited to Biology letters
+# Submitted to The Journal of Experimental Biology
 
 _Marilia Fernandes Erickson_
     
 ***
 
-**Journal**: [Biology letters](https://royalsocietypublishing.org/journal/rsbl)
+**Journal**: [Journal of Experimental Biology (https://journals.biologists.com/jeb)
 
 **DOI**:   XXXXXXX
 
