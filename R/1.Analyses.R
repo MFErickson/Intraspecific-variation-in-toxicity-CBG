@@ -7,8 +7,6 @@
 library(tidyverse)
 library(car)
 library(ggdist)
-library(ggplot2)
-library(dplyr)
 
 ### 1. Import dataset ----
 
@@ -68,9 +66,10 @@ CGB_subset$Climate <- factor(CGB_subset$Climate, levels = c("Tropical", "Subtrop
 
 # Violin + boxplot with reordered x-axis
 p1 <- ggplot(CGB_subset, aes(x = Climate, y = death.p, fill = Sex)) +
-  geom_violin(color = "white", alpha = 0.3, width = 1, position = position_dodge(0.75)) +
-  geom_boxplot(aes(fill = Sex), width = 0.2, position = position_dodge(0.75), outlier.shape = NA, alpha = 0.5) +
+  geom_boxplot(aes(fill = Sex), width = 0.4, position = position_dodge(0.75), outlier.shape = NA, alpha = 0.5) +
+  geom_point(aes(color = Sex), size = 2, alpha = 0.7, position = position_jitterdodge(dodge.width = 0.7, jitter.width = 0.3))+
   scale_fill_manual(values = c("#003459", "#007ea7")) +
+  scale_color_manual(values = c("#003459", "#007ea7")) +
   ylab("Death proportion") +
   theme_classic(base_size = 16)
 p1
