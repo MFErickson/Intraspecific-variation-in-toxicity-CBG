@@ -15,11 +15,13 @@ _Marilia Fernandes Erickson_
 ## 1. **Data Folder**
 The `data` folder contains:
 - The raw data, including a spreadsheet with toxicity data, colour metrics, and collection data for each sample.
+-The raw data from controls (H2O, Methanol and Pieris rapae)
 
 ## 2. **Data Columns**
 | Column Name        | Description |
 |--------------------|-------------|
 | **Site**          | Site code where sample was collected |
+| **Binomial**      | Species/treatment |
 | **ID**            | Individual ID number |
 | **Ndaphnia**      | Number of Daphnia in trial |
 | **Sex**           | Male/Female |
@@ -48,10 +50,12 @@ The `data` folder contains:
 | **Sat_StdDev.fv** | Standard deviation of the saturation of the ventral forewing |
 
 2. __Output__: the folder `output` contains  one folder named `figures`
-    * The acessory images for panels 1, 3, 4, 5 and 6 of the manuscript. 
+    * The acessory images for panels 1, 2 of the manuscript.
+    * Extra images plotting how the colour variables (not significant in the final model) relate to toxicity.
 
-4. __R__: the folder `R` contains  
-    * Scripts (.R) to generate all analyses and figures used in the manuscript and in the supporting information.
+4. __R__: the folder `R` contains cripts (.R) to generate all analyses and figures used in the manuscript and in the supporting information.
+    * 0.Controls.R : Compares toxicity of controls and Z. otis 
+    * 1.Analyses.R : Compares toxicity of site, sex and colour variables of Z. otis
     
 ***
 

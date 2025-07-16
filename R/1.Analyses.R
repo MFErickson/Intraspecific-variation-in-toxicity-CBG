@@ -1,4 +1,4 @@
-#'#'Whats the use of being blue?
+#'Whats the use of being blue?
 #'This script fits a glm on the data and plots it. 
 #'Author: Marilia F Erickson
 # Thu Feb 27 11:45:42 2025 ------------------------------

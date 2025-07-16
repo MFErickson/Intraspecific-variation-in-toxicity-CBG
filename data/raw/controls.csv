@@ -1,0 +1,47 @@
+ID,Binomial,X240m,Ndaphnia,death.p,nbut,weight
+2783,Pieris rapae,0,10,0,1,0.029
+1543,Pieris rapae,0,10,0,1,0.032
+4072,Pieris rapae,0,10,0,1,0.049
+4103,Pieris rapae,0,10,0,1,0.045
+4176,Pieris rapae,0,10,0,1,0.0386
+4185,Pieris rapae,0,10,0,1,0.034
+4212,Pieris rapae,0,10,0,1,0.02128
+3773,Pieris rapae,1,10,0.1,1,0.0476
+3923,Pieris rapae,0,10,0,1,0.037
+3924,Pieris rapae,0,10,0,1,0.0298
+met6,Methanol,0,10,0,NA,NA
+met7,Methanol,0,10,0,NA,NA
+met8,Methanol,0,8,0,NA,NA
+met9,Methanol,0,10,0,NA,NA
+H2O14,H2O,0,10,0,NA,NA
+H2O17,H2O,0,10,0,NA,NA
+H2O4,H2O,0,10,0,NA,NA
+H2O8,H2O,0,10,0,NA,NA
+H2O9,H2O,1,12,0.083333333,NA,NA
+H2O15,H2O,0,10,0,NA,NA
+H2O10,H2O,0,10,0,NA,NA
+H2O11,H2O,0,10,0,NA,NA
+H2O12,H2O,0,10,0,NA,NA
+H2O13,H2O,0,10,0,NA,NA
+met16,Methanol,0,10,0,NA,NA
+H2O5,H2O,0,10,0,NA,NA
+H2O16,H2O,0,10,0,NA,NA
+H2O7,H2O,0,10,0,NA,NA
+H2O18,H2O,0,10,0,NA,NA
+met2,Methanol,0,10,0,NA,NA
+H2O2,H2O,0,10,0,NA,NA
+H2O21,H2O,0,10,0,NA,NA
+H2O3,H2O,0,10,0,NA,NA
+H2O6,H2O,0,10,0,NA,NA
+met17,Methanol,0,10,0,NA,NA
+met18,Methanol,0,10,0,NA,NA
+met10,Methanol,1,10,0.1,NA,NA
+met21,Methanol,0,10,0,NA,NA
+met14,Methanol,0,10,0,NA,NA
+met12,Methanol,0,10,0,NA,NA
+met13,Methanol,0,10,0,NA,NA
+met3,Methanol,0,10,0,NA,NA
+met11,Methanol,0,10,0,NA,NA
+met5,Methanol,0,10,0,NA,NA
+met15,Methanol,0,10,0,NA,NA
+met4,Methanol,0,10,0,NA,NA
