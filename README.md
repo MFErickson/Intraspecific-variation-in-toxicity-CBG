@@ -1,4 +1,4 @@
-# Submitted to The Journal of Experimental Biology
+# Published in The Journal of Experimental Biology
 
 _Marilia Fernandes Erickson_
     
@@ -6,7 +6,7 @@ _Marilia Fernandes Erickson_
 
 **Journal**: [Journal of Experimental Biology (https://journals.biologists.com/jeb)
 
-**DOI**:   XXXXXXX
+**DOI**:   10.1242/jeb.250745
 
 ## Content of the repository
 
